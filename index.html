@@ -17,7 +17,7 @@
  <dialog id="detail"><button id="close" class="close" aria-label="Close">×</button><div class="detail-head"><div class="large-icon"><img id="icon" alt=""><span id="icon-missing" class="hidden">?</span></div><div><p id="category"></p><h2 id="name"></h2></div></div>
   <section class="metrics"><div><span>Latest price</span><b id="price">—</b></div><div><span>Standard price</span><b id="standard">—</b></div><div><span>Lowest listing</span><b id="lowest">—</b></div><div><span>Highest listing</span><b id="highest">—</b></div><div><span>Amount listed</span><b id="amount">—</b></div></section>
   <div class="chart-head"><h3>Daily history</h3><select id="metric" aria-label="History type"><option value="prices">All prices</option><option value="standard">Standard price</option><option value="lowest">Lowest price</option><option value="highest">Highest price</option><option value="amount">Amount listed</option></select></div>
-  <div class="legend" id="legend"></div><div class="chart"><canvas id="chart" aria-label="Daily price history"></canvas><span id="chart-empty" class="chart-empty hidden"></span></div>
+  <div class="legend" id="legend"></div><div class="chart"><canvas id="chart" aria-label="Daily price history"></canvas><span id="chart-empty" class="chart-empty hidden"></span><div id="chart-tooltip" class="chart-tooltip hidden" role="status"></div></div>
   <div class="table-wrap"><table><thead><tr><th>Date</th><th>Standard</th><th>Lowest</th><th>Highest</th><th>Amount</th></tr></thead><tbody id="days"></tbody></table></div>
  </dialog>
  <footer><span>ROX GLOBAL Exchange Center</span></footer>

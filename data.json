@@ -292,7 +292,7 @@
       "standard": 1000000,
       "lowest": 380000,
       "highest": 600000,
-      "listedAmount": 3,
+      "listedAmount": 2,
       "days": [
         {
           "date": "2026-10-14",
@@ -369,7 +369,7 @@
           "standard": 1000000,
           "lowest": 380000,
           "highest": 1000000,
-          "amount": 3
+          "amount": 2
         }
       ]
     },
@@ -1070,7 +1070,7 @@
       "standard": 801000,
       "lowest": 725000,
       "highest": 755000,
-      "listedAmount": 102,
+      "listedAmount": 103,
       "days": [
         {
           "date": "2026-09-15",
@@ -1350,7 +1350,7 @@
           "standard": 801000,
           "lowest": 725000,
           "highest": 755000,
-          "amount": 102
+          "amount": 103
         }
       ]
     },
@@ -15238,8 +15238,8 @@
       "price": 85100,
       "standard": 500000,
       "lowest": 95000,
-      "highest": 99999,
-      "listedAmount": 2,
+      "highest": 95000,
+      "listedAmount": 1,
       "days": [
         {
           "date": "2026-08-18",
@@ -15463,7 +15463,7 @@
           "standard": 500000,
           "lowest": 95000,
           "highest": 120000,
-          "amount": 2
+          "amount": 1
         }
       ]
     },
@@ -23275,9 +23275,9 @@
       "currency": "Diamonds",
       "qualityColor": "orange",
       "icon": "items/ce9ea051b524fd350672.png",
-      "price": 100000,
+      "price": 200000,
       "standard": 1000000,
-      "lowest": 200000,
+      "lowest": null,
       "highest": 200000,
       "listedAmount": 0,
       "days": [
@@ -23529,9 +23529,9 @@
       "currency": "Diamonds",
       "qualityColor": "orange",
       "icon": "items/c00389d031dab52e7d23.png",
-      "price": 200000,
+      "price": 270000,
       "standard": 1000000,
-      "lowest": 270000,
+      "lowest": 300000,
       "highest": 300000,
       "listedAmount": 1,
       "days": [
@@ -25170,7 +25170,7 @@
       "standard": 500000,
       "lowest": 150000,
       "highest": 200000,
-      "listedAmount": 3,
+      "listedAmount": 2,
       "days": [
         {
           "date": "2026-07-08",
@@ -25415,7 +25415,7 @@
           "standard": 500000,
           "lowest": 145000,
           "highest": 200000,
-          "amount": 3
+          "amount": 2
         }
       ]
     },
@@ -27144,9 +27144,9 @@
       "icon": "items/0fc2dacfa62051be0486.png",
       "price": 145780,
       "standard": 135000,
-      "lowest": 45000,
+      "lowest": 40000,
       "highest": 55000,
-      "listedAmount": 3,
+      "listedAmount": 4,
       "days": [
         {
           "date": "2026-06-08",
@@ -27417,9 +27417,9 @@
         {
           "date": "2026-10-24",
           "standard": 135000,
-          "lowest": 45000,
+          "lowest": 40000,
           "highest": 135000,
-          "amount": 3
+          "amount": 4
         }
       ]
     },
@@ -35006,11 +35006,11 @@
       "currency": "Crystals",
       "qualityColor": "white",
       "icon": "items/c54fada293ad40bc09ed.png",
-      "price": 4440,
+      "price": 3820,
       "standard": 4440,
       "lowest": 4440,
       "highest": 4720,
-      "listedAmount": 7,
+      "listedAmount": 8,
       "days": [
         {
           "date": "2026-09-14",
@@ -35297,7 +35297,7 @@
           "standard": 4440,
           "lowest": 3820,
           "highest": 4720,
-          "amount": 7
+          "amount": 8
         }
       ]
     },
@@ -40464,7 +40464,7 @@
       "standard": 7390,
       "lowest": 6370,
       "highest": 7390,
-      "listedAmount": 20,
+      "listedAmount": 19,
       "days": [
         {
           "date": "2026-09-14",
@@ -40751,7 +40751,7 @@
           "standard": 7390,
           "lowest": 6370,
           "highest": 7390,
-          "amount": 20
+          "amount": 19
         }
       ]
     },
@@ -44096,11 +44096,11 @@
       "currency": "Crystals",
       "qualityColor": "white",
       "icon": "items/7c50f8e0a515616c90e7.png",
-      "price": 10700,
+      "price": 9620,
       "standard": 11000,
       "lowest": 10700,
       "highest": 11300,
-      "listedAmount": 5,
+      "listedAmount": 6,
       "days": [
         {
           "date": "2026-09-14",
@@ -44385,9 +44385,9 @@
         {
           "date": "2026-10-24",
           "standard": 11000,
-          "lowest": 10700,
+          "lowest": 9620,
           "highest": 11300,
-          "amount": 5
+          "amount": 6
         }
       ]
     },
@@ -54402,7 +54402,7 @@
       "standard": 16500,
       "lowest": 14500,
       "highest": 16500,
-      "listedAmount": 20,
+      "listedAmount": 21,
       "days": [
         {
           "date": "2026-09-14",
@@ -54689,7 +54689,7 @@
           "standard": 16500,
           "lowest": 14500,
           "highest": 16500,
-          "amount": 20
+          "amount": 21
         }
       ]
     },
@@ -55128,8 +55128,8 @@
       "price": 16200,
       "standard": 162000,
       "lowest": 30000,
-      "highest": 162000,
-      "listedAmount": 4,
+      "highest": 40000,
+      "listedAmount": 3,
       "days": [
         {
           "date": "2026-08-24",
@@ -55360,7 +55360,7 @@
           "standard": 162000,
           "lowest": 30000,
           "highest": 194399,
-          "amount": 4
+          "amount": 3
         }
       ]
     },
@@ -56539,9 +56539,9 @@
       "icon": "items/5923d9645a96b3299a9a.png",
       "price": 65000,
       "standard": 162000,
-      "lowest": 80000,
-      "highest": 162000,
-      "listedAmount": 1,
+      "lowest": null,
+      "highest": 65000,
+      "listedAmount": 0,
       "days": [
         {
           "date": "2026-09-26",
@@ -56693,9 +56693,9 @@
         {
           "date": "2026-10-24",
           "standard": 162000,
-          "lowest": 60000,
+          "lowest": 59999,
           "highest": 194400,
-          "amount": 1
+          "amount": 0
         }
       ]
     },
@@ -56954,11 +56954,11 @@
       "currency": "Diamonds",
       "qualityColor": "orange",
       "icon": "items/43338867768fb3b8ea38.png",
-      "price": 64024,
+      "price": 149400,
       "standard": 162000,
       "lowest": 49500,
-      "highest": 149400,
-      "listedAmount": 4,
+      "highest": 162000,
+      "listedAmount": 3,
       "days": [
         {
           "date": "2026-09-08",
@@ -57168,7 +57168,7 @@
           "standard": 162000,
           "lowest": 49000,
           "highest": 162000,
-          "amount": 4
+          "amount": 3
         }
       ]
     },
@@ -57182,9 +57182,9 @@
       "icon": "items/e8479ab566b717acce32.png",
       "price": 30000,
       "standard": 162000,
-      "lowest": 44000,
+      "lowest": 47000,
       "highest": 90000,
-      "listedAmount": 4,
+      "listedAmount": 3,
       "days": [
         {
           "date": "2026-09-24",
@@ -57366,7 +57366,7 @@
           "standard": 162000,
           "lowest": 44000,
           "highest": 194400,
-          "amount": 4
+          "amount": 3
         }
       ]
     },
@@ -59030,9 +59030,9 @@
       "icon": "items/5bc45d43c476056a3a96.png",
       "price": 45000,
       "standard": 405000,
-      "lowest": 48500,
-      "highest": 48500,
-      "listedAmount": 1,
+      "lowest": null,
+      "highest": 65000,
+      "listedAmount": 0,
       "days": [
         {
           "date": "2026-05-15",
@@ -59289,9 +59289,9 @@
         {
           "date": "2026-10-24",
           "standard": 405000,
-          "lowest": 48500,
-          "highest": 55000,
-          "amount": 1
+          "lowest": 45000,
+          "highest": 65000,
+          "amount": 0
         }
       ]
     },
@@ -59608,9 +59608,9 @@
       "icon": "items/ffd6543bd4ec51f7c043.png",
       "price": 80000,
       "standard": 405000,
-      "lowest": 60000,
+      "lowest": 70000,
       "highest": 70000,
-      "listedAmount": 2,
+      "listedAmount": 1,
       "days": [
         {
           "date": "2026-04-26",
@@ -59876,7 +59876,7 @@
           "standard": 405000,
           "lowest": 60000,
           "highest": 150000,
-          "amount": 2
+          "amount": 1
         }
       ]
     },
@@ -73154,7 +73154,7 @@
       "standard": 328000,
       "lowest": 296000,
       "highest": 328000,
-      "listedAmount": 61,
+      "listedAmount": 62,
       "days": [
         {
           "date": "2026-09-14",
@@ -73441,7 +73441,7 @@
           "standard": 328000,
           "lowest": 296000,
           "highest": 328000,
-          "amount": 61
+          "amount": 62
         }
       ]
     },
@@ -74669,7 +74669,7 @@
       "standard": 11000,
       "lowest": 9620,
       "highest": 10700,
-      "listedAmount": 41,
+      "listedAmount": 40,
       "days": [
         {
           "date": "2026-09-14",
@@ -74956,7 +74956,7 @@
           "standard": 11000,
           "lowest": 9620,
           "highest": 10700,
-          "amount": 41
+          "amount": 40
         }
       ]
     },
@@ -74972,7 +74972,7 @@
       "standard": 11000,
       "lowest": 9620,
       "highest": 10100,
-      "listedAmount": 6,
+      "listedAmount": 5,
       "days": [
         {
           "date": "2026-09-14",
@@ -75259,7 +75259,7 @@
           "standard": 11000,
           "lowest": 9620,
           "highest": 10100,
-          "amount": 6
+          "amount": 5
         }
       ]
     },
@@ -105575,7 +105575,7 @@
       "standard": 11000,
       "lowest": 9620,
       "highest": 10100,
-      "listedAmount": 17,
+      "listedAmount": 18,
       "days": [
         {
           "date": "2026-09-14",
@@ -105862,7 +105862,7 @@
           "standard": 11000,
           "lowest": 9620,
           "highest": 10100,
-          "amount": 17
+          "amount": 18
         }
       ]
     },
@@ -127694,7 +127694,7 @@
       "standard": 24800,
       "lowest": 21800,
       "highest": 23600,
-      "listedAmount": 9,
+      "listedAmount": 10,
       "days": [
         {
           "date": "2026-09-14",
@@ -127981,7 +127981,7 @@
           "standard": 24800,
           "lowest": 21800,
           "highest": 23600,
-          "amount": 9
+          "amount": 10
         }
       ]
     },
@@ -131027,7 +131027,7 @@
       "standard": 973000,
       "lowest": 883000,
       "highest": 1070000,
-      "listedAmount": 20,
+      "listedAmount": 19,
       "days": [
         {
           "date": "2026-09-14",
@@ -131314,7 +131314,7 @@
           "standard": 973000,
           "lowest": 883000,
           "highest": 1070000,
-          "amount": 20
+          "amount": 19
         }
       ]
     },
@@ -132542,7 +132542,7 @@
       "standard": 973000,
       "lowest": 883000,
       "highest": 973000,
-      "listedAmount": 27,
+      "listedAmount": 28,
       "days": [
         {
           "date": "2026-09-14",
@@ -132829,7 +132829,7 @@
           "standard": 973000,
           "lowest": 883000,
           "highest": 973000,
-          "amount": 27
+          "amount": 28
         }
       ]
     },
@@ -132845,7 +132845,7 @@
       "standard": 973000,
       "lowest": 883000,
       "highest": 973000,
-      "listedAmount": 31,
+      "listedAmount": 32,
       "days": [
         {
           "date": "2026-09-14",
@@ -133132,7 +133132,7 @@
           "standard": 973000,
           "lowest": 883000,
           "highest": 973000,
-          "amount": 31
+          "amount": 32
         }
       ]
     },
@@ -141632,7 +141632,7 @@
       "standard": 3940,
       "lowest": 3390,
       "highest": 3600,
-      "listedAmount": 53,
+      "listedAmount": 52,
       "days": [
         {
           "date": "2026-09-14",
@@ -141919,7 +141919,7 @@
           "standard": 3940,
           "lowest": 3390,
           "highest": 3600,
-          "amount": 53
+          "amount": 52
         }
       ]
     },
@@ -158596,11 +158596,11 @@
       "currency": "Crystals",
       "qualityColor": "white",
       "icon": "items/ff20bdff88ee3aac6edf.png",
-      "price": 6000,
+      "price": 4720,
       "standard": 5480,
       "lowest": 6370,
       "highest": 6370,
-      "listedAmount": 4,
+      "listedAmount": 5,
       "days": [
         {
           "date": "2026-09-14",
@@ -158885,9 +158885,9 @@
         {
           "date": "2026-10-24",
           "standard": 5480,
-          "lowest": 6000,
+          "lowest": 4720,
           "highest": 6370,
-          "amount": 4
+          "amount": 5
         }
       ]
     },
@@ -160418,7 +160418,7 @@
       "standard": 24200,
       "lowest": 21200,
       "highest": 27500,
-      "listedAmount": 13,
+      "listedAmount": 14,
       "days": [
         {
           "date": "2026-09-14",
@@ -160705,7 +160705,7 @@
           "standard": 24200,
           "lowest": 21200,
           "highest": 27500,
-          "amount": 13
+          "amount": 14
         }
       ]
     },
@@ -161630,7 +161630,7 @@
       "standard": 11000,
       "lowest": 9620,
       "highest": 11000,
-      "listedAmount": 17,
+      "listedAmount": 16,
       "days": [
         {
           "date": "2026-09-14",
@@ -161917,7 +161917,7 @@
           "standard": 11000,
           "lowest": 9620,
           "highest": 11000,
-          "amount": 17
+          "amount": 16
         }
       ]
     },
@@ -163751,7 +163751,7 @@
       "standard": 1240,
       "lowest": 1070,
       "highest": 1240,
-      "listedAmount": 13,
+      "listedAmount": 12,
       "days": [
         {
           "date": "2026-09-14",
@@ -164038,7 +164038,7 @@
           "standard": 1240,
           "lowest": 1070,
           "highest": 1240,
-          "amount": 13
+          "amount": 12
         }
       ]
     },
@@ -167387,7 +167387,7 @@
       "standard": 3710,
       "lowest": 3190,
       "highest": 3600,
-      "listedAmount": 19,
+      "listedAmount": 20,
       "days": [
         {
           "date": "2026-09-14",
@@ -167674,7 +167674,7 @@
           "standard": 3710,
           "lowest": 3190,
           "highest": 3600,
-          "amount": 19
+          "amount": 20
         }
       ]
     },
@@ -172538,7 +172538,7 @@
       "standard": 11000,
       "lowest": 9620,
       "highest": 11000,
-      "listedAmount": 14,
+      "listedAmount": 15,
       "days": [
         {
           "date": "2026-09-14",
@@ -172825,7 +172825,7 @@
           "standard": 11000,
           "lowest": 9620,
           "highest": 11000,
-          "amount": 14
+          "amount": 15
         }
       ]
     },
@@ -180113,7 +180113,7 @@
       "standard": 3490,
       "lowest": 3000,
       "highest": 3190,
-      "listedAmount": 22,
+      "listedAmount": 23,
       "days": [
         {
           "date": "2026-09-14",
@@ -180400,7 +180400,7 @@
           "standard": 3490,
           "lowest": 3000,
           "highest": 3190,
-          "amount": 22
+          "amount": 23
         }
       ]
     },
@@ -194354,7 +194354,7 @@
       "standard": 11000,
       "lowest": 9620,
       "highest": 11000,
-      "listedAmount": 27,
+      "listedAmount": 28,
       "days": [
         {
           "date": "2026-09-14",
@@ -194641,7 +194641,7 @@
           "standard": 11000,
           "lowest": 9620,
           "highest": 11000,
-          "amount": 27
+          "amount": 28
         }
       ]
     },
@@ -204046,11 +204046,11 @@
       "currency": "Crystals",
       "qualityColor": "white",
       "icon": "items/71965c7e7b6eed807985.png",
-      "price": 32100,
+      "price": 26800,
       "standard": 28900,
       "lowest": null,
       "highest": 32100,
-      "listedAmount": 7,
+      "listedAmount": 6,
       "days": [
         {
           "date": "2026-09-14",
@@ -204337,7 +204337,7 @@
           "standard": 28900,
           "lowest": 26800,
           "highest": 32900,
-          "amount": 7
+          "amount": 6
         }
       ]
     },
@@ -211625,7 +211625,7 @@
       "standard": 3720000,
       "lowest": 3430000,
       "highest": 3660000,
-      "listedAmount": 12,
+      "listedAmount": 11,
       "days": [
         {
           "date": "2026-09-14",
@@ -211912,7 +211912,7 @@
           "standard": 3720000,
           "lowest": 3430000,
           "highest": 3660000,
-          "amount": 12
+          "amount": 11
         }
       ]
     },
@@ -254642,7 +254642,7 @@
       "standard": 208000,
       "lowest": 188000,
       "highest": 196000,
-      "listedAmount": 73,
+      "listedAmount": 72,
       "days": [
         {
           "date": "2026-09-14",
@@ -254929,7 +254929,7 @@
           "standard": 208000,
           "lowest": 188000,
           "highest": 196000,
-          "amount": 73
+          "amount": 72
         }
       ]
     },
@@ -281789,7 +281789,7 @@
       "standard": 594000,
       "lowest": 537000,
       "highest": 559000,
-      "listedAmount": 277,
+      "listedAmount": 276,
       "days": [
         {
           "date": "2026-09-14",
@@ -282076,7 +282076,7 @@
           "standard": 594000,
           "lowest": 537000,
           "highest": 559000,
-          "amount": 277
+          "amount": 276
         }
       ]
     },
@@ -293060,7 +293060,7 @@
       "standard": 111000,
       "lowest": 121000,
       "highest": 121000,
-      "listedAmount": 12,
+      "listedAmount": 11,
       "days": [
         {
           "date": "2026-09-14",
@@ -293347,7 +293347,7 @@
           "standard": 111000,
           "lowest": 101000,
           "highest": 121000,
-          "amount": 12
+          "amount": 11
         }
       ]
     },
@@ -295787,7 +295787,7 @@
       "standard": 342000,
       "lowest": 308000,
       "highest": 387000,
-      "listedAmount": 34,
+      "listedAmount": 35,
       "days": [
         {
           "date": "2026-09-14",
@@ -296074,7 +296074,7 @@
           "standard": 342000,
           "lowest": 308000,
           "highest": 387000,
-          "amount": 34
+          "amount": 35
         }
       ]
     },
@@ -296752,11 +296752,11 @@
       "currency": "Crystals",
       "qualityColor": "white",
       "icon": "items/700ff0986d635ad23d92.png",
-      "price": 10400,
+      "price": 10100,
       "standard": 11600,
       "lowest": 10100,
       "highest": 11000,
-      "listedAmount": 22,
+      "listedAmount": 31,
       "days": [
         {
           "date": "2026-09-14",
@@ -297043,7 +297043,7 @@
           "standard": 11600,
           "lowest": 10100,
           "highest": 11000,
-          "amount": 22
+          "amount": 31
         }
       ]
     },
@@ -297059,7 +297059,7 @@
       "standard": 24200,
       "lowest": 21200,
       "highest": 22400,
-      "listedAmount": 141,
+      "listedAmount": 144,
       "days": [
         {
           "date": "2026-09-14",
@@ -297346,7 +297346,7 @@
           "standard": 24200,
           "lowest": 21200,
           "highest": 22400,
-          "amount": 141
+          "amount": 144
         }
       ]
     },
@@ -297358,11 +297358,11 @@
       "currency": "Crystals",
       "qualityColor": "white",
       "icon": "items/477b1e43bf2ddb2fa5e8.png",
-      "price": 47000,
+      "price": 49400,
       "standard": 53300,
       "lowest": 47000,
       "highest": 49400,
-      "listedAmount": 331,
+      "listedAmount": 329,
       "days": [
         {
           "date": "2026-09-14",
@@ -297649,7 +297649,7 @@
           "standard": 53300,
           "lowest": 47000,
           "highest": 50700,
-          "amount": 331
+          "amount": 329
         }
       ]
     },
@@ -297968,7 +297968,7 @@
       "standard": 33800,
       "lowest": 29700,
       "highest": 31300,
-      "listedAmount": 440,
+      "listedAmount": 445,
       "days": [
         {
           "date": "2026-09-14",
@@ -298255,7 +298255,7 @@
           "standard": 33800,
           "lowest": 29700,
           "highest": 31300,
-          "amount": 440
+          "amount": 445
         }
       ]
     },
@@ -298271,7 +298271,7 @@
       "standard": 40400,
       "lowest": 35600,
       "highest": 37400,
-      "listedAmount": 926,
+      "listedAmount": 924,
       "days": [
         {
           "date": "2026-09-14",
@@ -298558,7 +298558,7 @@
           "standard": 40400,
           "lowest": 35600,
           "highest": 37400,
-          "amount": 926
+          "amount": 924
         }
       ]
     },
@@ -298574,7 +298574,7 @@
       "standard": 39,
       "lowest": 34,
       "highest": 36,
-      "listedAmount": 372534,
+      "listedAmount": 373695,
       "days": [
         {
           "date": "2026-09-14",
@@ -298861,7 +298861,7 @@
           "standard": 39,
           "lowest": 34,
           "highest": 36,
-          "amount": 372534
+          "amount": 373695
         }
       ]
     },
@@ -298877,7 +298877,7 @@
       "standard": 96,
       "lowest": 78,
       "highest": 84,
-      "listedAmount": 6143093,
+      "listedAmount": 6132451,
       "days": [
         {
           "date": "2026-09-14",
@@ -299164,7 +299164,7 @@
           "standard": 96,
           "lowest": 78,
           "highest": 84,
-          "amount": 6143093
+          "amount": 6132451
         }
       ]
     },
@@ -299786,7 +299786,7 @@
       "standard": 210,
       "lowest": 176,
       "highest": 189,
-      "listedAmount": 81249,
+      "listedAmount": 81156,
       "days": [
         {
           "date": "2026-09-14",
@@ -300073,7 +300073,7 @@
           "standard": 210,
           "lowest": 176,
           "highest": 189,
-          "amount": 81249
+          "amount": 81156
         }
       ]
     },
@@ -300089,7 +300089,7 @@
       "standard": 310,
       "lowest": 260,
       "highest": 370,
-      "listedAmount": 56942,
+      "listedAmount": 66384,
       "days": [
         {
           "date": "2026-09-14",
@@ -300376,7 +300376,7 @@
           "standard": 310,
           "lowest": 260,
           "highest": 370,
-          "amount": 56942
+          "amount": 66384
         }
       ]
     },
@@ -301907,7 +301907,7 @@
       "standard": 100,
       "lowest": 80,
       "highest": 100,
-      "listedAmount": 291467,
+      "listedAmount": 291466,
       "days": [
         {
           "date": "2026-09-14",
@@ -302194,7 +302194,7 @@
           "standard": 100,
           "lowest": 80,
           "highest": 100,
-          "amount": 291467
+          "amount": 291466
         }
       ]
     },
@@ -302210,7 +302210,7 @@
       "standard": 279,
       "lowest": 234,
       "highest": 279,
-      "listedAmount": 311009,
+      "listedAmount": 314451,
       "days": [
         {
           "date": "2026-09-14",
@@ -302497,7 +302497,7 @@
           "standard": 279,
           "lowest": 226,
           "highest": 279,
-          "amount": 311009
+          "amount": 314451
         }
       ]
     },
@@ -302816,7 +302816,7 @@
       "standard": 333,
       "lowest": 279,
       "highest": 299,
-      "listedAmount": 86185,
+      "listedAmount": 85979,
       "days": [
         {
           "date": "2026-09-14",
@@ -303103,7 +303103,7 @@
           "standard": 333,
           "lowest": 279,
           "highest": 299,
-          "amount": 86185
+          "amount": 85979
         }
       ]
     },
@@ -303119,7 +303119,7 @@
       "standard": 544,
       "lowest": 457,
       "highest": 490,
-      "listedAmount": 68052,
+      "listedAmount": 68155,
       "days": [
         {
           "date": "2026-09-14",
@@ -303406,7 +303406,7 @@
           "standard": 544,
           "lowest": 457,
           "highest": 490,
-          "amount": 68052
+          "amount": 68155
         }
       ]
     },
@@ -303422,7 +303422,7 @@
       "standard": 3000,
       "lowest": 2580,
       "highest": 3000,
-      "listedAmount": 1183,
+      "listedAmount": 1181,
       "days": [
         {
           "date": "2026-09-14",
@@ -303709,7 +303709,7 @@
           "standard": 3000,
           "lowest": 2580,
           "highest": 3000,
-          "amount": 1183
+          "amount": 1181
         }
       ]
     },
@@ -303725,7 +303725,7 @@
       "standard": 1840,
       "lowest": 1580,
       "highest": 1680,
-      "listedAmount": 124822,
+      "listedAmount": 125114,
       "days": [
         {
           "date": "2026-09-14",
@@ -304012,7 +304012,7 @@
           "standard": 1840,
           "lowest": 1530,
           "highest": 1680,
-          "amount": 124822
+          "amount": 125114
         }
       ]
     },
@@ -304028,7 +304028,7 @@
       "standard": 260,
       "lowest": 218,
       "highest": 242,
-      "listedAmount": 295952,
+      "listedAmount": 295694,
       "days": [
         {
           "date": "2026-09-14",
@@ -304315,7 +304315,7 @@
           "standard": 260,
           "lowest": 218,
           "highest": 242,
-          "amount": 295952
+          "amount": 295694
         }
       ]
     },
@@ -304634,7 +304634,7 @@
       "standard": 370,
       "lowest": 310,
       "highest": 370,
-      "listedAmount": 28795,
+      "listedAmount": 28576,
       "days": [
         {
           "date": "2026-09-14",
@@ -304921,7 +304921,7 @@
           "standard": 370,
           "lowest": 310,
           "highest": 370,
-          "amount": 28795
+          "amount": 28576
         }
       ]
     },
@@ -304937,7 +304937,7 @@
       "standard": 370,
       "lowest": 310,
       "highest": 333,
-      "listedAmount": 18718,
+      "listedAmount": 18170,
       "days": [
         {
           "date": "2026-09-14",
@@ -305224,7 +305224,7 @@
           "standard": 370,
           "lowest": 310,
           "highest": 333,
-          "amount": 18718
+          "amount": 18170
         }
       ]
     },
@@ -305236,11 +305236,11 @@
       "currency": "Crystals",
       "qualityColor": "white",
       "icon": "items/54f9adfc87f308993d77.png",
-      "price": 583,
+      "price": 507,
       "standard": 604,
       "lowest": 694,
       "highest": 718,
-      "listedAmount": 7514,
+      "listedAmount": 7945,
       "days": [
         {
           "date": "2026-09-14",
@@ -305525,9 +305525,9 @@
         {
           "date": "2026-10-24",
           "standard": 604,
-          "lowest": 583,
+          "lowest": 507,
           "highest": 718,
-          "amount": 7514
+          "amount": 7945
         }
       ]
     },
@@ -305846,7 +305846,7 @@
       "standard": 604,
       "lowest": 544,
       "highest": 583,
-      "listedAmount": 188255,
+      "listedAmount": 188205,
       "days": [
         {
           "date": "2026-09-14",
@@ -306133,7 +306133,7 @@
           "standard": 604,
           "lowest": 507,
           "highest": 583,
-          "amount": 188255
+          "amount": 188205
         }
       ]
     },
@@ -306149,7 +306149,7 @@
       "standard": 604,
       "lowest": 507,
       "highest": 604,
-      "listedAmount": 753061,
+      "listedAmount": 753011,
       "days": [
         {
           "date": "2026-09-14",
@@ -306436,7 +306436,7 @@
           "standard": 604,
           "lowest": 507,
           "highest": 604,
-          "amount": 753061
+          "amount": 753011
         }
       ]
     },
@@ -306755,7 +306755,7 @@
       "standard": 2140,
       "lowest": 1840,
       "highest": 1960,
-      "listedAmount": 162955,
+      "listedAmount": 163989,
       "days": [
         {
           "date": "2026-09-14",
@@ -307042,7 +307042,7 @@
           "standard": 2140,
           "lowest": 1840,
           "highest": 1960,
-          "amount": 162955
+          "amount": 163989
         }
       ]
     },
@@ -307361,7 +307361,7 @@
       "standard": 1480,
       "lowest": 1280,
       "highest": 1360,
-      "listedAmount": 125823,
+      "listedAmount": 125763,
       "days": [
         {
           "date": "2026-09-14",
@@ -307648,7 +307648,7 @@
           "standard": 1480,
           "lowest": 1280,
           "highest": 1360,
-          "amount": 125823
+          "amount": 125763
         }
       ]
     },
@@ -307967,7 +307967,7 @@
       "standard": 5480,
       "lowest": 4720,
       "highest": 5010,
-      "listedAmount": 55384,
+      "listedAmount": 55142,
       "days": [
         {
           "date": "2026-09-14",
@@ -308254,7 +308254,7 @@
           "standard": 5480,
           "lowest": 4720,
           "highest": 5010,
-          "amount": 55384
+          "amount": 55142
         }
       ]
     },
@@ -308270,7 +308270,7 @@
       "standard": 670,
       "lowest": 563,
       "highest": 604,
-      "listedAmount": 352009,
+      "listedAmount": 350617,
       "days": [
         {
           "date": "2026-09-14",
@@ -308557,7 +308557,7 @@
           "standard": 670,
           "lowest": 563,
           "highest": 604,
-          "amount": 352009
+          "amount": 350617
         }
       ]
     },
@@ -309785,7 +309785,7 @@
       "standard": 1200,
       "lowest": 1040,
       "highest": 1200,
-      "listedAmount": 3400,
+      "listedAmount": 3511,
       "days": [
         {
           "date": "2026-09-14",
@@ -310072,7 +310072,7 @@
           "standard": 1200,
           "lowest": 1040,
           "highest": 1200,
-          "amount": 3400
+          "amount": 3511
         }
       ]
     },
@@ -310694,7 +310694,7 @@
       "standard": 1730,
       "lowest": 1480,
       "highest": 1580,
-      "listedAmount": 221741,
+      "listedAmount": 222984,
       "days": [
         {
           "date": "2026-09-14",
@@ -310981,7 +310981,7 @@
           "standard": 1730,
           "lowest": 1480,
           "highest": 1580,
-          "amount": 221741
+          "amount": 222984
         }
       ]
     },
@@ -311300,7 +311300,7 @@
       "standard": 2420,
       "lowest": 2080,
       "highest": 2210,
-      "listedAmount": 45769,
+      "listedAmount": 45971,
       "days": [
         {
           "date": "2026-09-14",
@@ -311587,7 +311587,7 @@
           "standard": 2420,
           "lowest": 2080,
           "highest": 2210,
-          "amount": 45769
+          "amount": 45971
         }
       ]
     },
@@ -311603,7 +311603,7 @@
       "standard": 3940,
       "lowest": 3390,
       "highest": 3600,
-      "listedAmount": 59920,
+      "listedAmount": 60093,
       "days": [
         {
           "date": "2026-09-14",
@@ -311890,7 +311890,7 @@
           "standard": 3940,
           "lowest": 3390,
           "highest": 3600,
-          "amount": 59920
+          "amount": 60093
         }
       ]
     },
@@ -311906,7 +311906,7 @@
       "standard": 12200,
       "lowest": 10700,
       "highest": 11600,
-      "listedAmount": 4468,
+      "listedAmount": 4574,
       "days": [
         {
           "date": "2026-09-14",
@@ -312193,7 +312193,7 @@
           "standard": 12200,
           "lowest": 10700,
           "highest": 11600,
-          "amount": 4468
+          "amount": 4574
         }
       ]
     },
@@ -312209,7 +312209,7 @@
       "standard": 12200,
       "lowest": 11000,
       "highest": 12200,
-      "listedAmount": 4260,
+      "listedAmount": 4298,
       "days": [
         {
           "date": "2026-09-14",
@@ -312496,7 +312496,7 @@
           "standard": 12200,
           "lowest": 10700,
           "highest": 12200,
-          "amount": 4260
+          "amount": 4298
         }
       ]
     },
@@ -312617,7 +312617,7 @@
       "standard": 153,
       "lowest": 176,
       "highest": 182,
-      "listedAmount": 6326,
+      "listedAmount": 6325,
       "days": [
         {
           "date": "2026-09-14",
@@ -312904,7 +312904,7 @@
           "standard": 153,
           "lowest": 164,
           "highest": 182,
-          "amount": 6326
+          "amount": 6325
         }
       ]
     },
@@ -315647,7 +315647,7 @@
       "standard": 170,
       "lowest": 143,
       "highest": 176,
-      "listedAmount": 3685,
+      "listedAmount": 3657,
       "days": [
         {
           "date": "2026-09-14",
@@ -315934,7 +315934,7 @@
           "standard": 170,
           "lowest": 143,
           "highest": 176,
-          "amount": 3685
+          "amount": 3657
         }
       ]
     },
@@ -316253,7 +316253,7 @@
       "standard": 1130,
       "lowest": 979,
       "highest": 1070,
-      "listedAmount": 4619,
+      "listedAmount": 4569,
       "days": [
         {
           "date": "2026-09-14",
@@ -316540,7 +316540,7 @@
           "standard": 1130,
           "lowest": 979,
           "highest": 1100,
-          "amount": 4619
+          "amount": 4569
         }
       ]
     },
@@ -316859,7 +316859,7 @@
       "standard": 1100,
       "lowest": 979,
       "highest": 1100,
-      "listedAmount": 3367,
+      "listedAmount": 3314,
       "days": [
         {
           "date": "2026-09-14",
@@ -317146,7 +317146,7 @@
           "standard": 1100,
           "lowest": 946,
           "highest": 1100,
-          "amount": 3367
+          "amount": 3314
         }
       ]
     },
@@ -317768,7 +317768,7 @@
       "standard": 116,
       "lowest": 96,
       "highest": 116,
-      "listedAmount": 9176,
+      "listedAmount": 9126,
       "days": [
         {
           "date": "2026-09-14",
@@ -318055,7 +318055,7 @@
           "standard": 116,
           "lowest": 92,
           "highest": 116,
-          "amount": 9176
+          "amount": 9126
         }
       ]
     },
@@ -318677,7 +318677,7 @@
       "standard": 507,
       "lowest": 457,
       "highest": 604,
-      "listedAmount": 7069,
+      "listedAmount": 7588,
       "days": [
         {
           "date": "2026-09-14",
@@ -318964,7 +318964,7 @@
           "standard": 507,
           "lowest": 426,
           "highest": 604,
-          "amount": 7069
+          "amount": 7588
         }
       ]
     },
@@ -318980,7 +318980,7 @@
       "standard": 1440,
       "lowest": 1240,
       "highest": 1580,
-      "listedAmount": 1760,
+      "listedAmount": 1772,
       "days": [
         {
           "date": "2026-09-14",
@@ -319267,7 +319267,7 @@
           "standard": 1440,
           "lowest": 1240,
           "highest": 1730,
-          "amount": 1760
+          "amount": 1772
         }
       ]
     },
@@ -319283,7 +319283,7 @@
       "standard": 1530,
       "lowest": 1780,
       "highest": 1780,
-      "listedAmount": 7298,
+      "listedAmount": 7680,
       "days": [
         {
           "date": "2026-09-14",
@@ -319570,7 +319570,7 @@
           "standard": 1530,
           "lowest": 1400,
           "highest": 1780,
-          "amount": 7298
+          "amount": 7680
         }
       ]
     },
@@ -319586,7 +319586,7 @@
       "standard": 1480,
       "lowest": 1730,
       "highest": 1730,
-      "listedAmount": 3960,
+      "listedAmount": 3830,
       "days": [
         {
           "date": "2026-09-14",
@@ -319873,7 +319873,7 @@
           "standard": 1480,
           "lowest": 1360,
           "highest": 1780,
-          "amount": 3960
+          "amount": 3830
         }
       ]
     },
@@ -320192,7 +320192,7 @@
       "standard": 279,
       "lowest": 234,
       "highest": 260,
-      "listedAmount": 10409,
+      "listedAmount": 10675,
       "days": [
         {
           "date": "2026-09-14",
@@ -320479,7 +320479,7 @@
           "standard": 279,
           "lowest": 234,
           "highest": 260,
-          "amount": 10409
+          "amount": 10675
         }
       ]
     },
@@ -321404,7 +321404,7 @@
       "standard": 1580,
       "lowest": 1680,
       "highest": 1780,
-      "listedAmount": 9907,
+      "listedAmount": 9707,
       "days": [
         {
           "date": "2026-09-14",
@@ -321691,7 +321691,7 @@
           "standard": 1580,
           "lowest": 1440,
           "highest": 1780,
-          "amount": 9907
+          "amount": 9707
         }
       ]
     },
@@ -325040,7 +325040,7 @@
       "standard": 1680,
       "lowest": 1440,
       "highest": 1530,
-      "listedAmount": 11070,
+      "listedAmount": 11398,
       "days": [
         {
           "date": "2026-09-14",
@@ -325327,7 +325327,7 @@
           "standard": 1680,
           "lowest": 1440,
           "highest": 1730,
-          "amount": 11070
+          "amount": 11398
         }
       ]
     },
@@ -325339,11 +325339,11 @@
       "currency": "Crystals",
       "qualityColor": "white",
       "icon": "items/c87356e08fbf1af38062.png",
-      "price": 1360,
+      "price": 1480,
       "standard": 1480,
       "lowest": 1280,
       "highest": 1360,
-      "listedAmount": 17458,
+      "listedAmount": 5706,
       "days": [
         {
           "date": "2026-09-14",
@@ -325629,8 +325629,8 @@
           "date": "2026-10-24",
           "standard": 1480,
           "lowest": 1280,
-          "highest": 1360,
-          "amount": 17458
+          "highest": 1480,
+          "amount": 5706
         }
       ]
     },
@@ -328373,7 +328373,7 @@
       "standard": 345,
       "lowest": 289,
       "highest": 310,
-      "listedAmount": 68969,
+      "listedAmount": 70079,
       "days": [
         {
           "date": "2026-09-14",
@@ -328660,7 +328660,7 @@
           "standard": 345,
           "lowest": 289,
           "highest": 310,
-          "amount": 68969
+          "amount": 70079
         }
       ]
     },
@@ -329581,11 +329581,11 @@
       "currency": "Crystals",
       "qualityColor": "white",
       "icon": "items/1c5dcb8dfae15f6e49f9.png",
-      "price": 1630,
+      "price": 1580,
       "standard": 1440,
       "lowest": 1240,
       "highest": 1320,
-      "listedAmount": 289,
+      "listedAmount": 681,
       "days": [
         {
           "date": "2026-09-14",
@@ -329872,7 +329872,7 @@
           "standard": 1440,
           "lowest": 1240,
           "highest": 1680,
-          "amount": 289
+          "amount": 681
         }
       ]
     },
@@ -330191,7 +330191,7 @@
       "standard": 310,
       "lowest": 260,
       "highest": 299,
-      "listedAmount": 16930,
+      "listedAmount": 16915,
       "days": [
         {
           "date": "2026-09-14",
@@ -330478,7 +330478,7 @@
           "standard": 310,
           "lowest": 260,
           "highest": 299,
-          "amount": 16930
+          "amount": 16915
         }
       ]
     },
@@ -332312,7 +332312,7 @@
       "standard": 1580,
       "lowest": 1360,
       "highest": 1680,
-      "listedAmount": 29178,
+      "listedAmount": 28678,
       "days": [
         {
           "date": "2026-09-14",
@@ -332599,7 +332599,7 @@
           "standard": 1580,
           "lowest": 1360,
           "highest": 1680,
-          "amount": 29178
+          "amount": 28678
         }
       ]
     },
@@ -334813,11 +334813,11 @@
       "currency": "Crystals",
       "qualityColor": "white",
       "icon": "items/5ba2000fd7eeff8b9e18.png",
-      "price": 1010,
+      "price": 853,
       "standard": 979,
       "lowest": 979,
       "highest": 979,
-      "listedAmount": 155,
+      "listedAmount": 197,
       "days": [
         {
           "date": "2026-09-14",
@@ -335104,7 +335104,7 @@
           "standard": 979,
           "lowest": 824,
           "highest": 1010,
-          "amount": 155
+          "amount": 197
         }
       ]
     },
@@ -336332,7 +336332,7 @@
       "standard": 1280,
       "lowest": 1100,
       "highest": 1280,
-      "listedAmount": 2779,
+      "listedAmount": 2379,
       "days": [
         {
           "date": "2026-09-14",
@@ -336619,7 +336619,7 @@
           "standard": 1280,
           "lowest": 1100,
           "highest": 1280,
-          "amount": 2779
+          "amount": 2379
         }
       ]
     },
@@ -336934,11 +336934,11 @@
       "currency": "Crystals",
       "qualityColor": "white",
       "icon": "items/6a56c949b2447a89ecb8.png",
-      "price": 625,
+      "price": 583,
       "standard": 647,
       "lowest": 647,
       "highest": 769,
-      "listedAmount": 246,
+      "listedAmount": 255,
       "days": [
         {
           "date": "2026-09-14",
@@ -337225,7 +337225,7 @@
           "standard": 647,
           "lowest": 544,
           "highest": 769,
-          "amount": 246
+          "amount": 255
         }
       ]
     },
@@ -339362,7 +339362,7 @@
       "standard": 357,
       "lowest": 321,
       "highest": 345,
-      "listedAmount": 381,
+      "listedAmount": 376,
       "days": [
         {
           "date": "2026-09-14",
@@ -339649,7 +339649,7 @@
           "standard": 357,
           "lowest": 310,
           "highest": 397,
-          "amount": 381
+          "amount": 376
         }
       ]
     },
@@ -342392,7 +342392,7 @@
       "standard": 1580,
       "lowest": 1360,
       "highest": 1440,
-      "listedAmount": 51357,
+      "listedAmount": 50857,
       "days": [
         {
           "date": "2026-09-14",
@@ -342679,7 +342679,7 @@
           "standard": 1580,
           "lowest": 1360,
           "highest": 1440,
-          "amount": 51357
+          "amount": 50857
         }
       ]
     },
@@ -342998,7 +342998,7 @@
       "standard": 3000,
       "lowest": 2580,
       "highest": 2740,
-      "listedAmount": 13509,
+      "listedAmount": 13459,
       "days": [
         {
           "date": "2026-09-14",
@@ -343285,7 +343285,7 @@
           "standard": 3000,
           "lowest": 2580,
           "highest": 2740,
-          "amount": 13509
+          "amount": 13459
         }
       ]
     },
@@ -343301,7 +343301,7 @@
       "standard": 2910,
       "lowest": 2820,
       "highest": 2820,
-      "listedAmount": 1663,
+      "listedAmount": 1633,
       "days": [
         {
           "date": "2026-09-14",
@@ -343588,7 +343588,7 @@
           "standard": 2910,
           "lowest": 2820,
           "highest": 2820,
-          "amount": 1663
+          "amount": 1633
         }
       ]
     },
@@ -344816,7 +344816,7 @@
       "standard": 1400,
       "lowest": 1200,
       "highest": 1280,
-      "listedAmount": 19691,
+      "listedAmount": 19630,
       "days": [
         {
           "date": "2026-09-14",
@@ -345103,7 +345103,7 @@
           "standard": 1400,
           "lowest": 1200,
           "highest": 1280,
-          "amount": 19691
+          "amount": 19630
         }
       ]
     },
@@ -345119,7 +345119,7 @@
       "standard": 1480,
       "lowest": 1280,
       "highest": 1730,
-      "listedAmount": 9155,
+      "listedAmount": 8946,
       "days": [
         {
           "date": "2026-09-14",
@@ -345406,7 +345406,7 @@
           "standard": 1480,
           "lowest": 1280,
           "highest": 1730,
-          "amount": 9155
+          "amount": 8946
         }
       ]
     },
@@ -347846,7 +347846,7 @@
       "standard": 345,
       "lowest": 289,
       "highest": 345,
-      "listedAmount": 649,
+      "listedAmount": 774,
       "days": [
         {
           "date": "2026-09-14",
@@ -348133,7 +348133,7 @@
           "standard": 345,
           "lowest": 279,
           "highest": 345,
-          "amount": 649
+          "amount": 774
         }
       ]
     },
@@ -348149,7 +348149,7 @@
       "standard": 397,
       "lowest": 333,
       "highest": 397,
-      "listedAmount": 725,
+      "listedAmount": 753,
       "days": [
         {
           "date": "2026-09-14",
@@ -348436,7 +348436,7 @@
           "standard": 397,
           "lowest": 321,
           "highest": 397,
-          "amount": 725
+          "amount": 753
         }
       ]
     },
@@ -352088,7 +352088,7 @@
       "standard": 1580,
       "lowest": 1360,
       "highest": 1440,
-      "listedAmount": 15127,
+      "listedAmount": 14967,
       "days": [
         {
           "date": "2026-09-14",
@@ -352375,7 +352375,7 @@
           "standard": 1580,
           "lowest": 1360,
           "highest": 1440,
-          "amount": 15127
+          "amount": 14967
         }
       ]
     },
@@ -358238,7 +358238,7 @@
       "standard": 7610,
       "lowest": 6560,
       "highest": 6960,
-      "listedAmount": 717,
+      "listedAmount": 705,
       "days": [
         {
           "date": "2026-09-14",
@@ -358525,7 +358525,7 @@
           "standard": 7610,
           "lowest": 6370,
           "highest": 6960,
-          "amount": 717
+          "amount": 705
         }
       ]
     },
@@ -358844,7 +358844,7 @@
       "standard": 6960,
       "lowest": 6000,
       "highest": 6370,
-      "listedAmount": 337,
+      "listedAmount": 333,
       "days": [
         {
           "date": "2026-09-14",
@@ -359131,7 +359131,7 @@
           "standard": 6960,
           "lowest": 6000,
           "highest": 6370,
-          "amount": 337
+          "amount": 333
         }
       ]
     },
@@ -359147,7 +359147,7 @@
       "standard": 8310,
       "lowest": 7170,
       "highest": 7610,
-      "listedAmount": 1026,
+      "listedAmount": 1034,
       "days": [
         {
           "date": "2026-09-14",
@@ -359434,7 +359434,7 @@
           "standard": 8310,
           "lowest": 7170,
           "highest": 7610,
-          "amount": 1026
+          "amount": 1034
         }
       ]
     },
@@ -362783,7 +362783,7 @@
       "standard": 43600,
       "lowest": 38400,
       "highest": 40400,
-      "listedAmount": 566,
+      "listedAmount": 564,
       "days": [
         {
           "date": "2026-09-14",
@@ -363070,7 +363070,7 @@
           "standard": 43600,
           "lowest": 38400,
           "highest": 40400,
-          "amount": 566
+          "amount": 564
         }
       ]
     },
@@ -363389,7 +363389,7 @@
       "standard": 43600,
       "lowest": 38400,
       "highest": 40400,
-      "listedAmount": 804,
+      "listedAmount": 806,
       "days": [
         {
           "date": "2026-09-14",
@@ -363676,7 +363676,7 @@
           "standard": 43600,
           "lowest": 38400,
           "highest": 40400,
-          "amount": 804
+          "amount": 806
         }
       ]
     },
@@ -365510,7 +365510,7 @@
       "standard": 121000,
       "lowest": 111000,
       "highest": 135000,
-      "listedAmount": 433,
+      "listedAmount": 425,
       "days": [
         {
           "date": "2026-09-14",
@@ -365797,7 +365797,7 @@
           "standard": 121000,
           "lowest": 111000,
           "highest": 135000,
-          "amount": 433
+          "amount": 425
         }
       ]
     },
@@ -366116,7 +366116,7 @@
       "standard": 121000,
       "lowest": 111000,
       "highest": 121000,
-      "listedAmount": 462,
+      "listedAmount": 470,
       "days": [
         {
           "date": "2026-09-14",
@@ -366403,7 +366403,7 @@
           "standard": 121000,
           "lowest": 111000,
           "highest": 121000,
-          "amount": 462
+          "amount": 470
         }
       ]
     },
@@ -368069,7 +368069,7 @@
       "standard": 164,
       "lowest": 138,
       "highest": 164,
-      "listedAmount": 470,
+      "listedAmount": 456,
       "days": [
         {
           "date": "2026-09-14",
@@ -368356,7 +368356,7 @@
           "standard": 164,
           "lowest": 133,
           "highest": 164,
-          "amount": 470
+          "amount": 456
         }
       ]
     },
@@ -368675,7 +368675,7 @@
       "standard": 170,
       "lowest": 143,
       "highest": 158,
-      "listedAmount": 446,
+      "listedAmount": 450,
       "days": [
         {
           "date": "2026-09-14",
@@ -368962,7 +368962,7 @@
           "standard": 170,
           "lowest": 143,
           "highest": 158,
-          "amount": 446
+          "amount": 450
         }
       ]
     },
@@ -371398,11 +371398,11 @@
       "currency": "Crystals",
       "qualityColor": "white",
       "icon": "items/05a7a0a01a162fd071fa.png",
-      "price": 2740,
+      "price": 2140,
       "standard": 2500,
       "lowest": null,
       "highest": 2910,
-      "listedAmount": 55,
+      "listedAmount": 60,
       "days": [
         {
           "date": "2026-09-14",
@@ -371687,9 +371687,9 @@
         {
           "date": "2026-10-24",
           "standard": 2500,
-          "lowest": 2580,
+          "lowest": 2140,
           "highest": 2910,
-          "amount": 55
+          "amount": 60
         }
       ]
     },
@@ -375038,7 +375038,7 @@
       "standard": 2500,
       "lowest": null,
       "highest": 2580,
-      "listedAmount": 3,
+      "listedAmount": 0,
       "days": [
         {
           "date": "2026-09-14",
@@ -375325,7 +375325,7 @@
           "standard": 2500,
           "lowest": 2580,
           "highest": 2910,
-          "amount": 3
+          "amount": 0
         }
       ]
     },
@@ -375341,7 +375341,7 @@
       "standard": 1010,
       "lowest": 853,
       "highest": 1100,
-      "listedAmount": 370,
+      "listedAmount": 374,
       "days": [
         {
           "date": "2026-09-14",
@@ -375628,7 +375628,7 @@
           "standard": 1010,
           "lowest": 853,
           "highest": 1100,
-          "amount": 370
+          "amount": 374
         }
       ]
     },
@@ -375644,7 +375644,7 @@
       "standard": 153,
       "lowest": 128,
       "highest": 153,
-      "listedAmount": 45050,
+      "listedAmount": 45415,
       "days": [
         {
           "date": "2026-09-14",
@@ -375931,7 +375931,7 @@
           "standard": 153,
           "lowest": 128,
           "highest": 153,
-          "amount": 45050
+          "amount": 45415
         }
       ]
     },
@@ -376250,7 +376250,7 @@
       "standard": 153,
       "lowest": 128,
       "highest": 153,
-      "listedAmount": 12175,
+      "listedAmount": 12080,
       "days": [
         {
           "date": "2026-09-14",
@@ -376537,7 +376537,7 @@
           "standard": 153,
           "lowest": 128,
           "highest": 153,
-          "amount": 12175
+          "amount": 12080
         }
       ]
     },
@@ -376553,7 +376553,7 @@
       "standard": 153,
       "lowest": 128,
       "highest": 153,
-      "listedAmount": 11706,
+      "listedAmount": 11708,
       "days": [
         {
           "date": "2026-09-14",
@@ -376840,7 +376840,7 @@
           "standard": 153,
           "lowest": 128,
           "highest": 153,
-          "amount": 11706
+          "amount": 11708
         }
       ]
     },
@@ -376856,7 +376856,7 @@
       "standard": 153,
       "lowest": 128,
       "highest": 153,
-      "listedAmount": 25465,
+      "listedAmount": 25498,
       "days": [
         {
           "date": "2026-09-14",
@@ -377143,7 +377143,7 @@
           "standard": 153,
           "lowest": 128,
           "highest": 153,
-          "amount": 25465
+          "amount": 25498
         }
       ]
     },
@@ -377765,7 +377765,7 @@
       "standard": 153,
       "lowest": 128,
       "highest": 153,
-      "listedAmount": 1427,
+      "listedAmount": 1595,
       "days": [
         {
           "date": "2026-09-14",
@@ -378052,7 +378052,7 @@
           "standard": 153,
           "lowest": 128,
           "highest": 153,
-          "amount": 1427
+          "amount": 1595
         }
       ]
     },
@@ -381491,7 +381491,7 @@
       "standard": 1630,
       "lowest": 1400,
       "highest": 1630,
-      "listedAmount": 9111,
+      "listedAmount": 9109,
       "days": [
         {
           "date": "2026-09-14",
@@ -381778,7 +381778,7 @@
           "standard": 1630,
           "lowest": 1400,
           "highest": 1630,
-          "amount": 9111
+          "amount": 9109
         }
       ]
     },
@@ -382703,7 +382703,7 @@
       "standard": 2020,
       "lowest": 1730,
       "highest": 2020,
-      "listedAmount": 10579,
+      "listedAmount": 10310,
       "days": [
         {
           "date": "2026-09-14",
@@ -382990,7 +382990,7 @@
           "standard": 2020,
           "lowest": 1730,
           "highest": 2020,
-          "amount": 10579
+          "amount": 10310
         }
       ]
     },
@@ -383006,7 +383006,7 @@
       "standard": 4440,
       "lowest": 3820,
       "highest": 4060,
-      "listedAmount": 12353,
+      "listedAmount": 12421,
       "days": [
         {
           "date": "2026-09-14",
@@ -383293,7 +383293,7 @@
           "standard": 4440,
           "lowest": 3820,
           "highest": 4060,
-          "amount": 12353
+          "amount": 12421
         }
       ]
     },
@@ -383309,7 +383309,7 @@
       "standard": 2910,
       "lowest": 2500,
       "highest": 2660,
-      "listedAmount": 9447,
+      "listedAmount": 9452,
       "days": [
         {
           "date": "2026-09-14",
@@ -383596,7 +383596,7 @@
           "standard": 2910,
           "lowest": 2500,
           "highest": 2660,
-          "amount": 9447
+          "amount": 9452
         }
       ]
     },
@@ -383612,7 +383612,7 @@
       "standard": 4060,
       "lowest": 3490,
       "highest": 3710,
-      "listedAmount": 5809,
+      "listedAmount": 5799,
       "days": [
         {
           "date": "2026-09-14",
@@ -383899,7 +383899,7 @@
           "standard": 4060,
           "lowest": 3490,
           "highest": 3710,
-          "amount": 5809
+          "amount": 5799
         }
       ]
     },
@@ -384218,7 +384218,7 @@
       "standard": 4580,
       "lowest": 3940,
       "highest": 5160,
-      "listedAmount": 527,
+      "listedAmount": 525,
       "days": [
         {
           "date": "2026-09-14",
@@ -384505,7 +384505,7 @@
           "standard": 4580,
           "lowest": 3940,
           "highest": 5160,
-          "amount": 527
+          "amount": 525
         }
       ]
     },
@@ -386036,7 +386036,7 @@
       "standard": 18200,
       "lowest": 16100,
       "highest": 16900,
-      "listedAmount": 3019,
+      "listedAmount": 3013,
       "days": [
         {
           "date": "2026-09-14",
@@ -386323,7 +386323,7 @@
           "standard": 18200,
           "lowest": 16100,
           "highest": 16900,
-          "amount": 3019
+          "amount": 3013
         }
       ]
     },
@@ -386642,7 +386642,7 @@
       "standard": 39400,
       "lowest": 34700,
       "highest": 37400,
-      "listedAmount": 521,
+      "listedAmount": 537,
       "days": [
         {
           "date": "2026-09-14",
@@ -386929,7 +386929,7 @@
           "standard": 39400,
           "lowest": 34700,
           "highest": 37400,
-          "amount": 521
+          "amount": 537
         }
       ]
     },
@@ -386945,7 +386945,7 @@
       "standard": 35600,
       "lowest": 31300,
       "highest": 32900,
-      "listedAmount": 164,
+      "listedAmount": 174,
       "days": [
         {
           "date": "2026-09-14",
@@ -387232,7 +387232,7 @@
           "standard": 35600,
           "lowest": 30500,
           "highest": 32900,
-          "amount": 164
+          "amount": 174
         }
       ]
     },
@@ -388157,7 +388157,7 @@
       "standard": 27500,
       "lowest": 28200,
       "highest": 29700,
-      "listedAmount": 480,
+      "listedAmount": 528,
       "days": [
         {
           "date": "2026-09-14",
@@ -388444,7 +388444,7 @@
           "standard": 27500,
           "lowest": 24200,
           "highest": 29700,
-          "amount": 480
+          "amount": 528
         }
       ]
     },
@@ -388460,7 +388460,7 @@
       "standard": 7170,
       "lowest": 6180,
       "highest": 6560,
-      "listedAmount": 7184,
+      "listedAmount": 5800,
       "days": [
         {
           "date": "2026-09-14",
@@ -388747,7 +388747,7 @@
           "standard": 7170,
           "lowest": 6180,
           "highest": 6560,
-          "amount": 7184
+          "amount": 5800
         }
       ]
     },
@@ -388763,7 +388763,7 @@
       "standard": 7390,
       "lowest": 6370,
       "highest": 7390,
-      "listedAmount": 2824,
+      "listedAmount": 1825,
       "days": [
         {
           "date": "2026-09-14",
@@ -389050,7 +389050,7 @@
           "standard": 7390,
           "lowest": 6370,
           "highest": 7390,
-          "amount": 2824
+          "amount": 1825
         }
       ]
     },
@@ -391187,7 +391187,7 @@
       "standard": 48200,
       "lowest": 42500,
       "highest": 48200,
-      "listedAmount": 2762,
+      "listedAmount": 2773,
       "days": [
         {
           "date": "2026-09-14",
@@ -391474,7 +391474,7 @@
           "standard": 48200,
           "lowest": 41400,
           "highest": 48200,
-          "amount": 2762
+          "amount": 2773
         }
       ]
     },
@@ -393914,7 +393914,7 @@
       "standard": 14900,
       "lowest": 13100,
       "highest": 14100,
-      "listedAmount": 3511,
+      "listedAmount": 3451,
       "days": [
         {
           "date": "2026-09-14",
@@ -394201,7 +394201,7 @@
           "standard": 14900,
           "lowest": 13100,
           "highest": 14100,
-          "amount": 3511
+          "amount": 3451
         }
       ]
     },
@@ -394520,7 +394520,7 @@
       "standard": 15300,
       "lowest": 13400,
       "highest": 14500,
-      "listedAmount": 4819,
+      "listedAmount": 4602,
       "days": [
         {
           "date": "2026-09-14",
@@ -394807,7 +394807,7 @@
           "standard": 15300,
           "lowest": 13400,
           "highest": 14500,
-          "amount": 4819
+          "amount": 4602
         }
       ]
     },
@@ -396940,11 +396940,11 @@
       "currency": "Crystals",
       "qualityColor": "white",
       "icon": "items/67c522fb897d5e04525a.png",
-      "price": 89800,
+      "price": 96600,
       "standard": 101000,
       "lowest": 89800,
       "highest": 96600,
-      "listedAmount": 316,
+      "listedAmount": 207,
       "days": [
         {
           "date": "2026-09-14",
@@ -397231,7 +397231,7 @@
           "standard": 101000,
           "lowest": 89800,
           "highest": 96600,
-          "amount": 316
+          "amount": 207
         }
       ]
     },
@@ -401534,7 +401534,7 @@
       "standard": 18200,
       "lowest": 20700,
       "highest": 21200,
-      "listedAmount": 359,
+      "listedAmount": 357,
       "days": [
         {
           "date": "2026-09-14",
@@ -401821,7 +401821,7 @@
           "standard": 18200,
           "lowest": 20200,
           "highest": 21200,
-          "amount": 359
+          "amount": 357
         }
       ]
     },
@@ -401837,7 +401837,7 @@
       "standard": 18200,
       "lowest": 16100,
       "highest": 19200,
-      "listedAmount": 365,
+      "listedAmount": 363,
       "days": [
         {
           "date": "2026-09-14",
@@ -402124,7 +402124,7 @@
           "standard": 18200,
           "lowest": 16100,
           "highest": 19200,
-          "amount": 365
+          "amount": 363
         }
       ]
     },
@@ -402140,7 +402140,7 @@
       "standard": 18200,
       "lowest": 20700,
       "highest": 21200,
-      "listedAmount": 122,
+      "listedAmount": 120,
       "days": [
         {
           "date": "2026-09-14",
@@ -402427,7 +402427,7 @@
           "standard": 18200,
           "lowest": 20700,
           "highest": 21200,
-          "amount": 122
+          "amount": 120
         }
       ]
     },
@@ -403427,7 +403427,7 @@
       "standard": 796,
       "lowest": 670,
       "highest": 718,
-      "listedAmount": 85522,
+      "listedAmount": 88758,
       "days": [
         {
           "date": "2026-09-14",
@@ -403714,7 +403714,7 @@
           "standard": 796,
           "lowest": 670,
           "highest": 718,
-          "amount": 85522
+          "amount": 88758
         }
       ]
     },
@@ -403730,7 +403730,7 @@
       "standard": 625,
       "lowest": 525,
       "highest": 563,
-      "listedAmount": 247258,
+      "listedAmount": 248423,
       "days": [
         {
           "date": "2026-09-14",
@@ -404017,7 +404017,7 @@
           "standard": 625,
           "lowest": 525,
           "highest": 563,
-          "amount": 247258
+          "amount": 248423
         }
       ]
     },
@@ -404033,7 +404033,7 @@
       "standard": 824,
       "lowest": 694,
       "highest": 743,
-      "listedAmount": 175920,
+      "listedAmount": 176541,
       "days": [
         {
           "date": "2026-09-14",
@@ -404320,7 +404320,7 @@
           "standard": 824,
           "lowest": 694,
           "highest": 743,
-          "amount": 175920
+          "amount": 176541
         }
       ]
     },
@@ -404336,7 +404336,7 @@
       "standard": 4310,
       "lowest": 3710,
       "highest": 3940,
-      "listedAmount": 8666,
+      "listedAmount": 8618,
       "days": [
         {
           "date": "2026-09-14",
@@ -404623,7 +404623,7 @@
           "standard": 4310,
           "lowest": 3710,
           "highest": 3940,
-          "amount": 8666
+          "amount": 8618
         }
       ]
     },
@@ -404639,7 +404639,7 @@
       "standard": 5010,
       "lowest": 4310,
       "highest": 4580,
-      "listedAmount": 3833,
+      "listedAmount": 3881,
       "days": [
         {
           "date": "2026-09-14",
@@ -404926,7 +404926,7 @@
           "standard": 5010,
           "lowest": 4310,
           "highest": 4580,
-          "amount": 3833
+          "amount": 3881
         }
       ]
     },
@@ -405245,7 +405245,7 @@
       "standard": 12500,
       "lowest": 11000,
       "highest": 11900,
-      "listedAmount": 4956,
+      "listedAmount": 4937,
       "days": [
         {
           "date": "2026-09-14",
@@ -405532,7 +405532,7 @@
           "standard": 12500,
           "lowest": 10700,
           "highest": 11900,
-          "amount": 4956
+          "amount": 4937
         }
       ]
     },
@@ -410363,7 +410363,7 @@
       "standard": 36,
       "lowest": 31,
       "highest": 34,
-      "listedAmount": 973,
+      "listedAmount": 974,
       "days": [
         {
           "date": "2026-09-14",
@@ -410650,7 +410650,7 @@
           "standard": 36,
           "lowest": 31,
           "highest": 34,
-          "amount": 973
+          "amount": 974
         }
       ]
     },
@@ -413626,8 +413626,8 @@
       "price": 14999,
       "standard": 54000,
       "lowest": 20000,
-      "highest": 48000,
-      "listedAmount": 2,
+      "highest": 20000,
+      "listedAmount": 1,
       "days": [
         {
           "date": "2026-09-10",
@@ -413816,7 +413816,7 @@
           "standard": 54000,
           "lowest": 14999,
           "highest": 59999,
-          "amount": 2
+          "amount": 1
         }
       ]
     },
@@ -413831,7 +413831,7 @@
       "price": 216833,
       "standard": 54000,
       "lowest": 14848,
-      "highest": 33999,
+      "highest": 30000,
       "listedAmount": 3,
       "days": [
         {
@@ -414196,9 +414196,9 @@
       "currency": "Diamonds",
       "qualityColor": "orange",
       "icon": "items/533aa10ed5e2409bdbbd.png",
-      "price": 53850,
+      "price": 50000,
       "standard": 54000,
-      "lowest": 50000,
+      "lowest": 64790,
       "highest": 64800,
       "listedAmount": 3,
       "days": [
@@ -414335,7 +414335,7 @@
       "standard": 54000,
       "lowest": 50000,
       "highest": 54000,
-      "listedAmount": 4,
+      "listedAmount": 3,
       "days": [
         {
           "date": "2026-10-09",
@@ -414440,7 +414440,7 @@
           "standard": 54000,
           "lowest": 49000,
           "highest": 60000,
-          "amount": 4
+          "amount": 3
         }
       ]
     },
@@ -415933,7 +415933,7 @@
       "standard": 54000,
       "lowest": 25000,
       "highest": 54000,
-      "listedAmount": 5,
+      "listedAmount": 7,
       "days": [
         {
           "date": "2026-09-22",
@@ -416108,7 +416108,7 @@
           "standard": 54000,
           "lowest": 25000,
           "highest": 64800,
-          "amount": 5
+          "amount": 7
         }
       ]
     },
@@ -416122,8 +416122,8 @@
       "icon": "items/36cdd64434157f8adde1.png",
       "price": 218600,
       "standard": 135000,
-      "lowest": 162000,
-      "highest": 162000,
+      "lowest": 162100,
+      "highest": 162100,
       "listedAmount": 1,
       "days": [
         {
@@ -416364,7 +416364,7 @@
       "standard": 135000,
       "lowest": 50000,
       "highest": 162000,
-      "listedAmount": 6,
+      "listedAmount": 5,
       "days": [
         {
           "date": "2026-08-07",
@@ -416588,7 +416588,7 @@
           "standard": 135000,
           "lowest": 50000,
           "highest": 162000,
-          "amount": 6
+          "amount": 5
         }
       ]
     },
@@ -416864,7 +416864,7 @@
       "price": 29000,
       "standard": 135000,
       "lowest": 35000,
-      "highest": 135000,
+      "highest": 35000,
       "listedAmount": 1,
       "days": [
         {
@@ -417415,7 +417415,7 @@
       "standard": 135000,
       "lowest": 30000,
       "highest": 135000,
-      "listedAmount": 4,
+      "listedAmount": 3,
       "days": [
         {
           "date": "2026-06-30",
@@ -417667,7 +417667,7 @@
           "standard": 135000,
           "lowest": 24500,
           "highest": 135000,
-          "amount": 4
+          "amount": 3
         }
       ]
     },
@@ -419403,7 +419403,7 @@
       "standard": 2500,
       "lowest": 2140,
       "highest": 2280,
-      "listedAmount": 3508,
+      "listedAmount": 3520,
       "days": [
         {
           "date": "2026-09-14",
@@ -419690,7 +419690,7 @@
           "standard": 2500,
           "lowest": 2140,
           "highest": 2280,
-          "amount": 3508
+          "amount": 3520
         }
       ]
     },
@@ -419706,7 +419706,7 @@
       "standard": 7610,
       "lowest": 8560,
       "highest": 9070,
-      "listedAmount": 305,
+      "listedAmount": 316,
       "days": [
         {
           "date": "2026-09-14",
@@ -419993,7 +419993,7 @@
           "standard": 7610,
           "lowest": 6560,
           "highest": 9070,
-          "amount": 305
+          "amount": 316
         }
       ]
     },
@@ -420914,11 +420914,11 @@
       "currency": "Crystals",
       "qualityColor": "white",
       "icon": "items/2926ff0f37887c90c331.png",
-      "price": 8310,
+      "price": 8560,
       "standard": 8070,
       "lowest": 8310,
       "highest": 8810,
-      "listedAmount": 265,
+      "listedAmount": 251,
       "days": [
         {
           "date": "2026-09-14",
@@ -421205,7 +421205,7 @@
           "standard": 8070,
           "lowest": 6960,
           "highest": 8810,
-          "amount": 265
+          "amount": 251
         }
       ]
     },
@@ -421827,7 +421827,7 @@
       "standard": 5650,
       "lowest": 4860,
       "highest": 5160,
-      "listedAmount": 2492,
+      "listedAmount": 2442,
       "days": [
         {
           "date": "2026-09-14",
@@ -422114,7 +422114,7 @@
           "standard": 5650,
           "lowest": 4860,
           "highest": 5160,
-          "amount": 2492
+          "amount": 2442
         }
       ]
     },
@@ -424251,7 +424251,7 @@
       "standard": 16500,
       "lowest": 14500,
       "highest": 15300,
-      "listedAmount": 761,
+      "listedAmount": 758,
       "days": [
         {
           "date": "2026-09-14",
@@ -424538,7 +424538,7 @@
           "standard": 16500,
           "lowest": 14500,
           "highest": 15300,
-          "amount": 761
+          "amount": 758
         }
       ]
     },
@@ -424550,11 +424550,11 @@
       "currency": "Crystals",
       "qualityColor": "white",
       "icon": "items/00fc0322538cad838adc.png",
-      "price": 44700,
+      "price": 54700,
       "standard": 50700,
       "lowest": 44700,
       "highest": 54700,
-      "listedAmount": 82,
+      "listedAmount": 68,
       "days": [
         {
           "date": "2026-09-14",
@@ -424841,7 +424841,7 @@
           "standard": 50700,
           "lowest": 44700,
           "highest": 54700,
-          "amount": 82
+          "amount": 68
         }
       ]
     },
@@ -426920,7 +426920,7 @@
       "icon": "items/ece1647a69ed28f8fbeb.png",
       "price": 20100,
       "standard": 108000,
-      "lowest": 30000,
+      "lowest": 35000,
       "highest": 129600,
       "listedAmount": 4,
       "days": [
@@ -432122,8 +432122,8 @@
       "price": 20000,
       "standard": 200000,
       "lowest": 20000,
-      "highest": 50000,
-      "listedAmount": 2,
+      "highest": 20000,
+      "listedAmount": 1,
       "days": [
         {
           "date": "2026-10-02",
@@ -432263,7 +432263,7 @@
           "standard": 200000,
           "lowest": 20000,
           "highest": 50000,
-          "amount": 2
+          "amount": 1
         }
       ]
     },
@@ -436534,9 +436534,9 @@
       "icon": "items/aac2a052c714fb890840.png",
       "price": 150000,
       "standard": 300000,
-      "lowest": 200000,
-      "highest": 200000,
-      "listedAmount": 1,
+      "lowest": null,
+      "highest": 175100,
+      "listedAmount": 0,
       "days": [
         {
           "date": "2025-12-31",
@@ -436802,7 +436802,7 @@
           "standard": 300000,
           "lowest": 150000,
           "highest": 200000,
-          "amount": 1
+          "amount": 0
         }
       ]
     },
@@ -441017,7 +441017,7 @@
       "standard": 594000,
       "lowest": 537000,
       "highest": 683000,
-      "listedAmount": 14,
+      "listedAmount": 16,
       "days": [
         {
           "date": "2026-09-14",
@@ -441304,7 +441304,7 @@
           "standard": 594000,
           "lowest": 526000,
           "highest": 683000,
-          "amount": 14
+          "amount": 16
         }
       ]
     },
@@ -443134,11 +443134,11 @@
       "currency": "Crystals",
       "qualityColor": "purple",
       "icon": "items/66b4bfe2527c77911758.png",
-      "price": 101000,
+      "price": 96600,
       "standard": 101000,
       "lowest": 103000,
       "highest": 111000,
-      "listedAmount": 4,
+      "listedAmount": 5,
       "days": [
         {
           "date": "2026-09-14",
@@ -443425,7 +443425,7 @@
           "standard": 101000,
           "lowest": 89800,
           "highest": 111000,
-          "amount": 4
+          "amount": 5
         }
       ]
     },
@@ -444952,11 +444952,11 @@
       "currency": "Crystals",
       "qualityColor": "purple",
       "icon": "items/808eb2fa073e720d88fd.png",
-      "price": 99000,
+      "price": 92000,
       "standard": 101000,
       "lowest": 99000,
       "highest": 101000,
-      "listedAmount": 4,
+      "listedAmount": 5,
       "days": [
         {
           "date": "2026-09-14",
@@ -445243,7 +445243,7 @@
           "standard": 101000,
           "lowest": 89800,
           "highest": 101000,
-          "amount": 4
+          "amount": 5
         }
       ]
     },
@@ -448285,11 +448285,11 @@
       "currency": "Crystals",
       "qualityColor": "purple",
       "icon": "items/813299a2d3fcca6bf75f.png",
-      "price": 99000,
+      "price": 96600,
       "standard": 101000,
       "lowest": 99000,
       "highest": 111000,
-      "listedAmount": 3,
+      "listedAmount": 4,
       "days": [
         {
           "date": "2026-09-14",
@@ -448574,9 +448574,9 @@
         {
           "date": "2026-10-24",
           "standard": 101000,
-          "lowest": 99000,
+          "lowest": 96600,
           "highest": 111000,
-          "amount": 3
+          "amount": 4
         }
       ]
     },
@@ -452531,7 +452531,7 @@
       "standard": 196000,
       "lowest": 176000,
       "highest": 184000,
-      "listedAmount": 10,
+      "listedAmount": 11,
       "days": [
         {
           "date": "2026-09-14",
@@ -452818,7 +452818,7 @@
           "standard": 196000,
           "lowest": 176000,
           "highest": 184000,
-          "amount": 10
+          "amount": 11
         }
       ]
     },
@@ -456470,7 +456470,7 @@
       "standard": 103000,
       "lowest": 92000,
       "highest": 101000,
-      "listedAmount": 5,
+      "listedAmount": 4,
       "days": [
         {
           "date": "2026-09-14",
@@ -456757,7 +456757,7 @@
           "standard": 103000,
           "lowest": 92000,
           "highest": 101000,
-          "amount": 5
+          "amount": 4
         }
       ]
     },
@@ -460106,7 +460106,7 @@
       "standard": 3090,
       "lowest": 2910,
       "highest": 3090,
-      "listedAmount": 1466,
+      "listedAmount": 1511,
       "days": [
         {
           "date": "2026-09-14",
@@ -460393,7 +460393,7 @@
           "standard": 3090,
           "lowest": 2660,
           "highest": 3090,
-          "amount": 1466
+          "amount": 1511
         }
       ]
     },
@@ -478418,7 +478418,7 @@
       "standard": 48200,
       "lowest": 42500,
       "highest": 42500,
-      "listedAmount": 2,
+      "listedAmount": 3,
       "days": [
         {
           "date": "2026-09-14",
@@ -478705,7 +478705,7 @@
           "standard": 48200,
           "lowest": 42500,
           "highest": 42500,
-          "amount": 2
+          "amount": 3
         }
       ]
     },
@@ -509997,9 +509997,9 @@
       "icon": "items/34f0a52cd02dc58d6bb2.png",
       "price": 150000,
       "standard": 360000,
-      "lowest": 120000,
-      "highest": 120000,
-      "listedAmount": 1,
+      "lowest": null,
+      "highest": 150000,
+      "listedAmount": 0,
       "days": [
         {
           "date": "2026-08-07",
@@ -510237,7 +510237,7 @@
           "standard": 360000,
           "lowest": 60300,
           "highest": 150000,
-          "amount": 1
+          "amount": 0
         }
       ]
     },
@@ -510505,9 +510505,9 @@
       "icon": "items/d93e6b46de09e7b1a932.png",
       "price": 36000,
       "standard": 360000,
-      "lowest": 40000,
+      "lowest": 60000,
       "highest": 360000,
-      "listedAmount": 3,
+      "listedAmount": 2,
       "days": [
         {
           "date": "2026-04-11",
@@ -510773,7 +510773,7 @@
           "standard": 360000,
           "lowest": 40000,
           "highest": 432000,
-          "amount": 3
+          "amount": 2
         }
       ]
     },
@@ -511556,9 +511556,9 @@
       "icon": "items/d1e3f429a8916452ea37.png",
       "price": 120000,
       "standard": 720000,
-      "lowest": 189870,
+      "lowest": 190000,
       "highest": 864000,
-      "listedAmount": 5,
+      "listedAmount": 4,
       "days": [
         {
           "date": "2026-07-09",
@@ -511831,7 +511831,7 @@
           "standard": 720000,
           "lowest": 120000,
           "highest": 864000,
-          "amount": 5
+          "amount": 4
         }
       ]
     },
@@ -512565,8 +512565,8 @@
       "icon": "items/08518e2755eed914ed93.png",
       "price": 170000,
       "standard": 750000,
-      "lowest": null,
-      "highest": 188100,
+      "lowest": 170000,
+      "highest": 170000,
       "listedAmount": 1,
       "days": [
         {
@@ -516241,7 +516241,7 @@
       "standard": 4720,
       "lowest": 4060,
       "highest": 4310,
-      "listedAmount": 4810,
+      "listedAmount": 4822,
       "days": [
         {
           "date": "2026-09-14",
@@ -516528,7 +516528,7 @@
           "standard": 4720,
           "lowest": 3940,
           "highest": 4310,
-          "amount": 4810
+          "amount": 4822
         }
       ]
     },
@@ -516847,7 +516847,7 @@
       "standard": 22400,
       "lowest": 19700,
       "highest": 20700,
-      "listedAmount": 307,
+      "listedAmount": 309,
       "days": [
         {
           "date": "2026-09-14",
@@ -517134,7 +517134,7 @@
           "standard": 22400,
           "lowest": 19700,
           "highest": 20700,
-          "amount": 307
+          "amount": 309
         }
       ]
     },
@@ -530618,7 +530618,7 @@
       "standard": 1320,
       "lowest": 1130,
       "highest": 1200,
-      "listedAmount": 7153,
+      "listedAmount": 7151,
       "days": [
         {
           "date": "2026-09-14",
@@ -530905,7 +530905,7 @@
           "standard": 1320,
           "lowest": 1130,
           "highest": 1200,
-          "amount": 7153
+          "amount": 7151
         }
       ]
     },
@@ -565190,9 +565190,9 @@
       "icon": "items/e5cf8b1e7d3f5e2151b6.png",
       "price": 100500,
       "standard": 375000,
-      "lowest": 450000,
-      "highest": 450000,
-      "listedAmount": 1,
+      "lowest": null,
+      "highest": 100500,
+      "listedAmount": 0,
       "days": [
         {
           "date": "2026-10-14",
@@ -565269,7 +565269,7 @@
           "standard": 375000,
           "lowest": 100500,
           "highest": 450000,
-          "amount": 1
+          "amount": 0
         }
       ]
     },
@@ -572873,7 +572873,7 @@
       "standard": 40400,
       "lowest": 35600,
       "highest": 40400,
-      "listedAmount": 15476,
+      "listedAmount": 15475,
       "days": [
         {
           "date": "2026-09-14",
@@ -573160,7 +573160,7 @@
           "standard": 40400,
           "lowest": 35600,
           "highest": 40400,
-          "amount": 15476
+          "amount": 15475
         }
       ]
     },
@@ -573782,7 +573782,7 @@
       "standard": 43600,
       "lowest": 38400,
       "highest": 40400,
-      "listedAmount": 4140,
+      "listedAmount": 4135,
       "days": [
         {
           "date": "2026-09-15",
@@ -574062,7 +574062,7 @@
           "standard": 43600,
           "lowest": 38400,
           "highest": 40400,
-          "amount": 4140
+          "amount": 4135
         }
       ]
     },
@@ -574078,7 +574078,7 @@
       "standard": 43600,
       "lowest": 38400,
       "highest": 40400,
-      "listedAmount": 2431,
+      "listedAmount": 2404,
       "days": [
         {
           "date": "2026-09-15",
@@ -574358,7 +574358,7 @@
           "standard": 43600,
           "lowest": 38400,
           "highest": 40400,
-          "amount": 2431
+          "amount": 2404
         }
       ]
     },
@@ -574722,7 +574722,7 @@
       "standard": 121000,
       "lowest": 111000,
       "highest": 117000,
-      "listedAmount": 1158,
+      "listedAmount": 1160,
       "days": [
         {
           "date": "2026-09-14",
@@ -575009,7 +575009,7 @@
           "standard": 121000,
           "lowest": 111000,
           "highest": 117000,
-          "amount": 1158
+          "amount": 1160
         }
       ]
     },
@@ -575328,7 +575328,7 @@
       "standard": 138000,
       "lowest": 123000,
       "highest": 129000,
-      "listedAmount": 223,
+      "listedAmount": 224,
       "days": [
         {
           "date": "2026-09-15",
@@ -575608,7 +575608,7 @@
           "standard": 138000,
           "lowest": 123000,
           "highest": 129000,
-          "amount": 223
+          "amount": 224
         }
       ]
     },
@@ -575624,7 +575624,7 @@
       "standard": 138000,
       "lowest": 123000,
       "highest": 129000,
-      "listedAmount": 207,
+      "listedAmount": 209,
       "days": [
         {
           "date": "2026-09-15",
@@ -575904,7 +575904,7 @@
           "standard": 138000,
           "lowest": 123000,
           "highest": 129000,
-          "amount": 207
+          "amount": 209
         }
       ]
     },
@@ -577170,7 +577170,7 @@
       "standard": 27500,
       "lowest": 24200,
       "highest": 25400,
-      "listedAmount": 42,
+      "listedAmount": 44,
       "days": [
         {
           "date": "2026-09-15",
@@ -577450,7 +577450,7 @@
           "standard": 27500,
           "lowest": 24200,
           "highest": 25400,
-          "amount": 42
+          "amount": 44
         }
       ]
     },
@@ -584419,8 +584419,8 @@
       "price": 350000,
       "standard": 1125000,
       "lowest": 400000,
-      "highest": 449999,
-      "listedAmount": 2,
+      "highest": 400000,
+      "listedAmount": 1,
       "days": [
         {
           "date": "2026-03-23",
@@ -584686,7 +584686,7 @@
           "standard": 1125000,
           "lowest": 350000,
           "highest": 449999,
-          "amount": 2
+          "amount": 1
         }
       ]
     },
@@ -588482,7 +588482,7 @@
       "standard": 32100,
       "lowest": 28200,
       "highest": 32900,
-      "listedAmount": 10,
+      "listedAmount": 11,
       "days": [
         {
           "date": "2026-09-14",
@@ -588769,7 +588769,7 @@
           "standard": 32100,
           "lowest": 28200,
           "highest": 32900,
-          "amount": 10
+          "amount": 11
         }
       ]
     },
@@ -590902,11 +590902,11 @@
       "currency": "Crystals",
       "qualityColor": "white",
       "icon": "items/21a5b6320f6b108bb35d.png",
-      "price": 41400,
+      "price": 40400,
       "standard": 45800,
       "lowest": 40400,
       "highest": 42500,
-      "listedAmount": 3,
+      "listedAmount": 4,
       "days": [
         {
           "date": "2026-09-14",
@@ -591193,7 +591193,7 @@
           "standard": 45800,
           "lowest": 40400,
           "highest": 42500,
-          "amount": 3
+          "amount": 4
         }
       ]
     },
@@ -596057,7 +596057,7 @@
       "standard": 15300,
       "lowest": 17300,
       "highest": 17300,
-      "listedAmount": 10,
+      "listedAmount": 7,
       "days": [
         {
           "date": "2026-09-14",
@@ -596344,7 +596344,7 @@
           "standard": 15300,
           "lowest": 13400,
           "highest": 17300,
-          "amount": 10
+          "amount": 7
         }
       ]
     },
@@ -613328,7 +613328,7 @@
       "standard": 1350000,
       "lowest": 1250000,
       "highest": 1350000,
-      "listedAmount": 3,
+      "listedAmount": 2,
       "days": [
         {
           "date": "2026-09-14",
@@ -613615,7 +613615,7 @@
           "standard": 1350000,
           "lowest": 1250000,
           "highest": 1350000,
-          "amount": 3
+          "amount": 2
         }
       ]
     },
@@ -618346,7 +618346,7 @@
       "standard": 700000,
       "lowest": 350000,
       "highest": 350001,
-      "listedAmount": 16,
+      "listedAmount": 13,
       "days": [
         {
           "date": "2026-09-18",
@@ -618521,7 +618521,7 @@
           "standard": 700000,
           "lowest": 350000,
           "highest": 700000,
-          "amount": 16
+          "amount": 13
         }
       ]
     },
@@ -618721,7 +618721,7 @@
       "standard": 99000,
       "lowest": 87600,
       "highest": 92000,
-      "listedAmount": 212,
+      "listedAmount": 211,
       "days": [
         {
           "date": "2026-09-14",
@@ -619008,7 +619008,7 @@
           "standard": 99000,
           "lowest": 85500,
           "highest": 92000,
-          "amount": 212
+          "amount": 211
         }
       ]
     },
@@ -619024,7 +619024,7 @@
       "standard": 101000,
       "lowest": 89800,
       "highest": 94300,
-      "listedAmount": 290,
+      "listedAmount": 291,
       "days": [
         {
           "date": "2026-09-14",
@@ -619311,7 +619311,7 @@
           "standard": 101000,
           "lowest": 87600,
           "highest": 94300,
-          "amount": 290
+          "amount": 291
         }
       ]
     },
@@ -620540,8 +620540,8 @@
       "price": 250000,
       "standard": 300000,
       "lowest": 222222,
-      "highest": 222222,
-      "listedAmount": 1,
+      "highest": 360000,
+      "listedAmount": 2,
       "days": [
         {
           "date": "2026-09-30",
@@ -620681,7 +620681,7 @@
           "standard": 300000,
           "lowest": 222222,
           "highest": 360000,
-          "amount": 1
+          "amount": 2
         }
       ]
     },
@@ -621909,7 +621909,7 @@
       "standard": 438000,
       "lowest": 395000,
       "highest": 411000,
-      "listedAmount": 229,
+      "listedAmount": 226,
       "days": [
         {
           "date": "2026-09-14",
@@ -622196,7 +622196,7 @@
           "standard": 438000,
           "lowest": 395000,
           "highest": 411000,
-          "amount": 229
+          "amount": 226
         }
       ]
     },
@@ -623121,7 +623121,7 @@
       "standard": 438000,
       "lowest": 395000,
       "highest": 411000,
-      "listedAmount": 256,
+      "listedAmount": 263,
       "days": [
         {
           "date": "2026-09-14",
@@ -623408,7 +623408,7 @@
           "standard": 438000,
           "lowest": 395000,
           "highest": 411000,
-          "amount": 256
+          "amount": 263
         }
       ]
     },
@@ -623727,7 +623727,7 @@
       "standard": 165000,
       "lowest": 150000,
       "highest": 156000,
-      "listedAmount": 240,
+      "listedAmount": 236,
       "days": [
         {
           "date": "2026-09-14",
@@ -624014,7 +624014,7 @@
           "standard": 165000,
           "lowest": 150000,
           "highest": 156000,
-          "amount": 240
+          "amount": 236
         }
       ]
     },
@@ -624030,7 +624030,7 @@
       "standard": 231000,
       "lowest": 208000,
       "highest": 216000,
-      "listedAmount": 145,
+      "listedAmount": 146,
       "days": [
         {
           "date": "2026-09-14",
@@ -624317,7 +624317,7 @@
           "standard": 231000,
           "lowest": 208000,
           "highest": 216000,
-          "amount": 145
+          "amount": 146
         }
       ]
     },
@@ -624333,7 +624333,7 @@
       "standard": 109000,
       "lowest": 99000,
       "highest": 103000,
-      "listedAmount": 131,
+      "listedAmount": 133,
       "days": [
         {
           "date": "2026-09-14",
@@ -624620,7 +624620,7 @@
           "standard": 109000,
           "lowest": 99000,
           "highest": 103000,
-          "amount": 131
+          "amount": 133
         }
       ]
     },
@@ -624939,7 +624939,7 @@
       "standard": 92000,
       "lowest": 81400,
       "highest": 85500,
-      "listedAmount": 133,
+      "listedAmount": 134,
       "days": [
         {
           "date": "2026-09-14",
@@ -625226,7 +625226,7 @@
           "standard": 92000,
           "lowest": 81400,
           "highest": 85500,
-          "amount": 133
+          "amount": 134
         }
       ]
     },
@@ -625841,7 +625841,7 @@
       "standard": 473,
       "lowest": 397,
       "highest": 473,
-      "listedAmount": 39143,
+      "listedAmount": 39314,
       "days": [
         {
           "date": "2026-09-15",
@@ -626121,7 +626121,7 @@
           "standard": 473,
           "lowest": 397,
           "highest": 473,
-          "amount": 39143
+          "amount": 39314
         }
       ]
     },
@@ -626137,7 +626137,7 @@
       "standard": 1240,
       "lowest": 1070,
       "highest": 1240,
-      "listedAmount": 19481,
+      "listedAmount": 19554,
       "days": [
         {
           "date": "2026-09-15",
@@ -626417,7 +626417,7 @@
           "standard": 1240,
           "lowest": 1070,
           "highest": 1240,
-          "amount": 19481
+          "amount": 19554
         }
       ]
     },
@@ -626433,7 +626433,7 @@
       "standard": 3290,
       "lowest": 2820,
       "highest": 3290,
-      "listedAmount": 10474,
+      "listedAmount": 10311,
       "days": [
         {
           "date": "2026-09-15",
@@ -626713,7 +626713,7 @@
           "standard": 3290,
           "lowest": 2820,
           "highest": 3290,
-          "amount": 10474
+          "amount": 10311
         }
       ]
     },
@@ -648420,7 +648420,7 @@
       "standard": 300000,
       "lowest": 100000,
       "highest": 100000,
-      "listedAmount": 3,
+      "listedAmount": 4,
       "days": [
         {
           "date": "2026-10-14",
@@ -648497,7 +648497,7 @@
           "standard": 300000,
           "lowest": 100000,
           "highest": 120000,
-          "amount": 3
+          "amount": 4
         }
       ]
     },
