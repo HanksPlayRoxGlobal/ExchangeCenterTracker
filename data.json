@@ -13221,7 +13221,7 @@
       "standard": 108000,
       "lowest": 35000,
       "highest": 100000,
-      "listedAmount": 4,
+      "listedAmount": 6,
       "days": [
         {
           "date": "2026-09-12",
@@ -13389,7 +13389,7 @@
           "standard": 108000,
           "lowest": 35000,
           "highest": 100000,
-          "amount": 4
+          "amount": 6
         }
       ]
     },
@@ -13405,7 +13405,7 @@
       "standard": 108000,
       "lowest": 40000,
       "highest": 55000,
-      "listedAmount": 2,
+      "listedAmount": 3,
       "days": [
         {
           "date": "2026-09-26",
@@ -13594,7 +13594,7 @@
           "standard": 108000,
           "lowest": 34999,
           "highest": 75000,
-          "amount": 2
+          "amount": 3
         }
       ]
     },
@@ -25431,7 +25431,7 @@
       "standard": 54000,
       "lowest": 40000,
       "highest": 54000,
-      "listedAmount": 2,
+      "listedAmount": 4,
       "days": [
         {
           "date": "2026-09-22",
@@ -25599,7 +25599,7 @@
           "standard": 54000,
           "lowest": 38000,
           "highest": 54000,
-          "amount": 2
+          "amount": 4
         }
       ]
     },
@@ -26871,7 +26871,7 @@
       "standard": 135000,
       "lowest": null,
       "highest": 88888,
-      "listedAmount": 0,
+      "listedAmount": 1,
       "days": [
         {
           "date": "2026-08-08",
@@ -27128,9 +27128,9 @@
         {
           "date": "2026-10-24",
           "standard": 135000,
-          "lowest": 40000,
+          "lowest": 20000,
           "highest": 135000,
-          "amount": 0
+          "amount": 1
         }
       ]
     },
@@ -54903,7 +54903,7 @@
       "standard": 162000,
       "lowest": 39500,
       "highest": 194400,
-      "listedAmount": 4,
+      "listedAmount": 3,
       "days": [
         {
           "date": "2026-08-31",
@@ -55113,7 +55113,7 @@
           "standard": 162000,
           "lowest": 39500,
           "highest": 194400,
-          "amount": 4
+          "amount": 3
         }
       ]
     },
@@ -56958,7 +56958,7 @@
       "standard": 162000,
       "lowest": 49500,
       "highest": 162000,
-      "listedAmount": 4,
+      "listedAmount": 5,
       "days": [
         {
           "date": "2026-09-08",
@@ -57168,7 +57168,7 @@
           "standard": 162000,
           "lowest": 49000,
           "highest": 162000,
-          "amount": 4
+          "amount": 5
         }
       ]
     },
@@ -57184,7 +57184,7 @@
       "standard": 162000,
       "lowest": 44000,
       "highest": 90000,
-      "listedAmount": 5,
+      "listedAmount": 6,
       "days": [
         {
           "date": "2026-09-24",
@@ -57366,7 +57366,7 @@
           "standard": 162000,
           "lowest": 44000,
           "highest": 194400,
-          "amount": 5
+          "amount": 6
         }
       ]
     },
@@ -58538,7 +58538,7 @@
       "standard": 405000,
       "lowest": 60000,
       "highest": 69999,
-      "listedAmount": 2,
+      "listedAmount": 1,
       "days": [
         {
           "date": "2026-06-26",
@@ -58804,7 +58804,7 @@
           "standard": 405000,
           "lowest": 60000,
           "highest": 100000,
-          "amount": 2
+          "amount": 1
         }
       ]
     },
@@ -58820,7 +58820,7 @@
       "standard": 405000,
       "lowest": 150000,
       "highest": 405000,
-      "listedAmount": 2,
+      "listedAmount": 3,
       "days": [
         {
           "date": "2026-09-05",
@@ -59014,9 +59014,9 @@
         {
           "date": "2026-10-24",
           "standard": 405000,
-          "lowest": 150000,
+          "lowest": 130000,
           "highest": 405000,
-          "amount": 2
+          "amount": 3
         }
       ]
     },
@@ -59032,7 +59032,7 @@
       "standard": 405000,
       "lowest": 44999,
       "highest": 44999,
-      "listedAmount": 1,
+      "listedAmount": 2,
       "days": [
         {
           "date": "2026-05-15",
@@ -59291,7 +59291,7 @@
           "standard": 405000,
           "lowest": 44999,
           "highest": 65000,
-          "amount": 1
+          "amount": 2
         }
       ]
     },
@@ -505350,7 +505350,7 @@
       "standard": 720000,
       "lowest": 100000,
       "highest": 100000,
-      "listedAmount": 1,
+      "listedAmount": 2,
       "days": [
         {
           "date": "2026-01-22",
@@ -505637,7 +505637,7 @@
           "standard": 720000,
           "lowest": 72000,
           "highest": 720000,
-          "amount": 1
+          "amount": 2
         }
       ]
     },
@@ -507501,7 +507501,7 @@
       "standard": 1080000,
       "lowest": 200000,
       "highest": 200000,
-      "listedAmount": 1,
+      "listedAmount": 2,
       "days": [
         {
           "date": "2026-06-14",
@@ -507781,7 +507781,7 @@
           "standard": 1080000,
           "lowest": 130000,
           "highest": 239000,
-          "amount": 1
+          "amount": 2
         }
       ]
     },
@@ -565099,7 +565099,7 @@
       "standard": 375000,
       "lowest": null,
       "highest": 195000,
-      "listedAmount": 0,
+      "listedAmount": 1,
       "days": [
         {
           "date": "2026-10-14",
@@ -565176,7 +565176,7 @@
           "standard": 375000,
           "lowest": 150000,
           "highest": 200000,
-          "amount": 0
+          "amount": 1
         }
       ]
     },
@@ -582500,7 +582500,7 @@
       "standard": 1125000,
       "lowest": 250000,
       "highest": 250000,
-      "listedAmount": 1,
+      "listedAmount": 2,
       "days": [
         {
           "date": "2026-05-09",
@@ -582675,7 +582675,7 @@
           "standard": 1125000,
           "lowest": 112500,
           "highest": 1350000,
-          "amount": 1
+          "amount": 2
         }
       ]
     },
@@ -583735,7 +583735,7 @@
       "standard": 1125000,
       "lowest": 1125000,
       "highest": 1125000,
-      "listedAmount": 2,
+      "listedAmount": 3,
       "days": [
         {
           "date": "2026-06-29",
@@ -584001,7 +584001,7 @@
           "standard": 1125000,
           "lowest": 400000,
           "highest": 1125000,
-          "amount": 2
+          "amount": 3
         }
       ]
     },
