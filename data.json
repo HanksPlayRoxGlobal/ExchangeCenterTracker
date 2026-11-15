@@ -37166,10 +37166,10 @@
       "currency": "Diamonds",
       "qualityColor": "orange",
       "icon": "items/b848d71594ed5f012ca2.png",
-      "price": 92000,
+      "price": 103600,
       "standard": 200000,
-      "lowest": 91500,
-      "highest": 91500,
+      "lowest": null,
+      "highest": 103600,
       "listedAmount": 0,
       "days": [
         {
@@ -37533,7 +37533,7 @@
           "date": "2026-11-15",
           "standard": 200000,
           "lowest": 91500,
-          "highest": 100000,
+          "highest": 103600,
           "amount": 0
         }
       ]
@@ -40390,7 +40390,7 @@
       "icon": "items/f5e9976fc22a7f68696f.png",
       "price": 299999,
       "standard": 500000,
-      "lowest": null,
+      "lowest": 299999,
       "highest": 299999,
       "listedAmount": 1,
       "days": [
@@ -42972,8 +42972,8 @@
       "icon": "items/2c2f50a10fab5672253a.png",
       "price": 125000,
       "standard": 200000,
-      "lowest": null,
-      "highest": 130000,
+      "lowest": 135000,
+      "highest": 135000,
       "listedAmount": 1,
       "days": [
         {
@@ -43402,7 +43402,7 @@
       "price": 110000,
       "standard": 500000,
       "lowest": 199999,
-      "highest": 199999,
+      "highest": 250000,
       "listedAmount": 2,
       "days": [
         {
@@ -53654,8 +53654,8 @@
       "icon": "items/591d1f82fd32d0765f40.png",
       "price": 150000,
       "standard": 200000,
-      "lowest": null,
-      "highest": 166400,
+      "lowest": 160000,
+      "highest": 160000,
       "listedAmount": 1,
       "days": [
         {
@@ -66109,8 +66109,8 @@
       "icon": "items/570722bb92a8200daa1d.png",
       "price": 50000,
       "standard": 500000,
-      "lowest": null,
-      "highest": 57100,
+      "lowest": 65000,
+      "highest": 65000,
       "listedAmount": 1,
       "days": [
         {
@@ -69775,7 +69775,7 @@
       "price": 150000,
       "standard": 200000,
       "lowest": 150000,
-      "highest": 240000,
+      "highest": 150000,
       "listedAmount": 1,
       "days": [
         {
@@ -82609,8 +82609,8 @@
       "icon": "items/41b6c2be21104d11af2d.png",
       "price": 165000,
       "standard": 200000,
-      "lowest": null,
-      "highest": 165000,
+      "lowest": 240000,
+      "highest": 240000,
       "listedAmount": 1,
       "days": [
         {
@@ -97025,8 +97025,8 @@
       "icon": "items/aaf572ffe747ea845197.png",
       "price": 180000,
       "standard": 1000000,
-      "lowest": 195000,
-      "highest": 195000,
+      "lowest": 199999,
+      "highest": 199999,
       "listedAmount": 1,
       "days": [
         {
@@ -97431,10 +97431,10 @@
       "currency": "Diamonds",
       "qualityColor": "orange",
       "icon": "items/72d76e31d7a33f229fc6.png",
-      "price": 500000,
+      "price": 75300,
       "standard": 500000,
-      "lowest": 50000,
-      "highest": 50200,
+      "lowest": null,
+      "highest": 500000,
       "listedAmount": 0,
       "days": [
         {
@@ -99699,7 +99699,7 @@
       "price": 350000,
       "standard": 700000,
       "lowest": 350000,
-      "highest": 350000,
+      "highest": 350002,
       "listedAmount": 11,
       "days": [
         {
@@ -104431,7 +104431,7 @@
       "icon": "items/56feb016ebbb94f547d5.png",
       "price": 20200,
       "standard": 200000,
-      "lowest": 240000,
+      "lowest": 50000,
       "highest": 240000,
       "listedAmount": 2,
       "days": [
@@ -108827,7 +108827,7 @@
       "price": 180000,
       "standard": 1000000,
       "lowest": 240000,
-      "highest": 240000,
+      "highest": 350000,
       "listedAmount": 2,
       "days": [
         {
@@ -111846,7 +111846,7 @@
       "price": 350000,
       "standard": 700000,
       "lowest": 350000,
-      "highest": 350000,
+      "highest": 700000,
       "listedAmount": 17,
       "days": [
         {
@@ -126311,8 +126311,8 @@
       "icon": "items/c866418f278ffed5639e.png",
       "price": 150000,
       "standard": 500000,
-      "lowest": 150000,
-      "highest": 150000,
+      "lowest": null,
+      "highest": 181800,
       "listedAmount": 0,
       "days": [
         {
@@ -128878,8 +128878,8 @@
       "icon": "items/ce9ea051b524fd350672.png",
       "price": 200000,
       "standard": 1000000,
-      "lowest": null,
-      "highest": 200000,
+      "lowest": 250000,
+      "highest": 250000,
       "listedAmount": 1,
       "days": [
         {
@@ -148344,8 +148344,8 @@
       "icon": "items/eb46036ae15f11f1f8cb.png",
       "price": 300000,
       "standard": 500000,
-      "lowest": 300000,
-      "highest": 300000,
+      "lowest": null,
+      "highest": 350000,
       "listedAmount": 0,
       "days": [
         {
@@ -167353,7 +167353,7 @@
       "icon": "items/d97e0500f3f133d74fb4.png",
       "price": 30000,
       "standard": 200000,
-      "lowest": 48986,
+      "lowest": 200000,
       "highest": 200000,
       "listedAmount": 1,
       "days": [
@@ -195751,8 +195751,8 @@
       "icon": "items/aca429c3a8b8a62fbd57.png",
       "price": 30000,
       "standard": 200000,
-      "lowest": null,
-      "highest": 33000,
+      "lowest": 200000,
+      "highest": 200000,
       "listedAmount": 1,
       "days": [
         {
@@ -221159,8 +221159,8 @@
       "icon": "items/a1f5b0efe47c0c42a0ad.png",
       "price": 300000,
       "standard": 500000,
-      "lowest": null,
-      "highest": 300000,
+      "lowest": 150000,
+      "highest": 150000,
       "listedAmount": 1,
       "days": [
         {
@@ -238832,8 +238832,8 @@
       "icon": "items/2098e75fd82c87946277.png",
       "price": 600000,
       "standard": 1000000,
-      "lowest": null,
-      "highest": null,
+      "lowest": 600000,
+      "highest": 600000,
       "listedAmount": 1,
       "days": [
         {
@@ -257673,7 +257673,7 @@
       "icon": "items/e72edf7f28259ca4f5b8.png",
       "price": 150000,
       "standard": 300000,
-      "lowest": 300000,
+      "lowest": 290000,
       "highest": 360000,
       "listedAmount": 6,
       "days": [
@@ -295819,7 +295819,7 @@
       "icon": "items/e72edf7f28259ca4f5b8.png",
       "price": 249999,
       "standard": 300000,
-      "lowest": null,
+      "lowest": 249999,
       "highest": 249999,
       "listedAmount": 1,
       "days": [
@@ -579074,7 +579074,7 @@
       "icon": "items/7c0656177549352b8ce1.png",
       "price": 15100,
       "standard": 54000,
-      "lowest": 22000,
+      "lowest": 30000,
       "highest": 64800,
       "listedAmount": 3,
       "days": [
@@ -580573,7 +580573,7 @@
       "icon": "items/a64a0fc7f3729c71df45.png",
       "price": 24500,
       "standard": 108000,
-      "lowest": 50000,
+      "lowest": 60000,
       "highest": 60000,
       "listedAmount": 1,
       "days": [
@@ -581728,7 +581728,7 @@
       "price": 414263,
       "standard": 108000,
       "lowest": 32000,
-      "highest": 100000,
+      "highest": 90000,
       "listedAmount": 3,
       "days": [
         {
@@ -685872,7 +685872,7 @@
       "icon": "items/08b3b818b038c9365ed4.png",
       "price": 28236,
       "standard": 135000,
-      "lowest": 35000,
+      "lowest": 35100,
       "highest": 39500,
       "listedAmount": 2,
       "days": [
@@ -686259,7 +686259,7 @@
       "icon": "items/357cf61961315d1028c4.png",
       "price": 13500,
       "standard": 135000,
-      "lowest": 26000,
+      "lowest": 30000,
       "highest": 135000,
       "listedAmount": 3,
       "days": [
@@ -687477,7 +687477,7 @@
       "price": 50000,
       "standard": 135000,
       "lowest": 40000,
-      "highest": 40000,
+      "highest": 51000,
       "listedAmount": 3,
       "days": [
         {
@@ -688320,8 +688320,8 @@
       "icon": "items/7c98acc0d3e9fc7d0868.png",
       "price": 45000,
       "standard": 135000,
-      "lowest": null,
-      "highest": 59999,
+      "lowest": 50000,
+      "highest": 50000,
       "listedAmount": 1,
       "days": [
         {
@@ -689586,7 +689586,7 @@
       "icon": "items/1bbbf4b8fe801483de73.png",
       "price": 100000,
       "standard": 270000,
-      "lowest": 100000,
+      "lowest": 149000,
       "highest": 200000,
       "listedAmount": 2,
       "days": [
@@ -691197,7 +691197,7 @@
       "icon": "items/423b3bdff464f4a77770.png",
       "price": 50000,
       "standard": 270000,
-      "lowest": 199999,
+      "lowest": 55000,
       "highest": 199999,
       "listedAmount": 3,
       "days": [
@@ -840058,7 +840058,7 @@
       "price": 75000,
       "standard": 360000,
       "lowest": 50000,
-      "highest": 50000,
+      "highest": 77777,
       "listedAmount": 2,
       "days": [
         {
@@ -841303,7 +841303,7 @@
       "price": 229888,
       "standard": 720000,
       "lowest": 180000,
-      "highest": 180000,
+      "highest": 240000,
       "listedAmount": 2,
       "days": [
         {
@@ -841690,7 +841690,7 @@
       "price": 72000,
       "standard": 720000,
       "lowest": 99000,
-      "highest": 120000,
+      "highest": 250000,
       "listedAmount": 5,
       "days": [
         {
@@ -842124,7 +842124,7 @@
           "date": "2026-11-15",
           "standard": 720000,
           "lowest": 90000,
-          "highest": 120000,
+          "highest": 250000,
           "amount": 5
         }
       ]
@@ -896436,7 +896436,7 @@
       "price": 67087,
       "standard": 375000,
       "lowest": 199999,
-      "highest": 199999,
+      "highest": 200000,
       "listedAmount": 2,
       "days": [
         {
@@ -897757,8 +897757,8 @@
       "icon": "items/ef535853637995d1ed9f.png",
       "price": 500000,
       "standard": 750000,
-      "lowest": 580000,
-      "highest": 580000,
+      "lowest": null,
+      "highest": 500000,
       "listedAmount": 0,
       "days": [
         {
@@ -952805,7 +952805,7 @@
       "price": 120000,
       "standard": 375000,
       "lowest": 199999,
-      "highest": 199999,
+      "highest": 375000,
       "listedAmount": 2,
       "days": [
         {
